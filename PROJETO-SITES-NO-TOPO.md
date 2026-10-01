@@ -1,6 +1,6 @@
 # Projeto Sites no Topo: ponto de retomada
 
-Atualizado em 01/10/2026. Objetivo: todas as fichas do .com no Kenlo com nota de SEO o mais perto possível de 98% na Semrush (alvo de 9,7 ou mais no SEO Writing Assistant, com tudo verde).
+Pasta do projeto no computador: `D:\Claude roberto@imoveisem`. Atualizado em 01/10/2026. Objetivo: todas as fichas do .com no Kenlo com nota de SEO o mais perto possível de 98% na Semrush (alvo de 9,7 ou mais no SEO Writing Assistant, com tudo verde).
 
 ## Onde paramos
 
