@@ -5,6 +5,8 @@ Atualizado em 01/10/2026. Objetivo: todas as fichas do .com no Kenlo com nota de
 ## Onde paramos
 
 - **Atualização do Roberto (01/10/2026): 221 fichas feitas até o momento.** Os números abaixo (131 fichas, posições 1 a 36) são de antes dessa atualização e ficaram desatualizados. A central tem a lista exata.
+- **Total de imóveis ativos no Kenlo/Vista (01/10/2026): 790** (imob.valuegaia.com.br, busca de imóveis da agência com status ativo). Com 221 feitas, faltam cerca de 569, se todas as 221 estiverem entre os ativos. Confirmar cruzando a lista da central com os 790 ativos: fichas feitas que hoje estão inativas não contam, e fichas ativas sem texto novo entram na fila.
+- **As 100 mais visitadas precisam ser verificadas**, porque o Roberto não confirmou se terminaram todas. Abrir cada uma no Kenlo e conferir se o texto novo está gravado e íntegro.
 - Antes da atualização: cerca de 131 fichas do .com estavam no Kenlo com o texto novo, gravadas e conferidas.
 - 100 fichas mais visitadas: as posições 1 a 36 estão prontas. As posições 37 a 99 pararam no meio, porque os agentes bateram no limite semanal de uso, que libera em 03/10 às 11h.
 - Antes de retomar as posições 37 a 99, confira o que já foi gravado. Isso vale principalmente para as fichas que estavam sendo salvas na hora da parada, e também por causa do alerta do teclado: numa aba em segundo plano, letras podem ter sido digitadas na aba de outro redator.
