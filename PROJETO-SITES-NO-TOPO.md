@@ -25,7 +25,11 @@ Atualizado em 01/10/2026. Objetivo: todas as fichas do .com no Kenlo com nota de
 - **CA0503**: a nota ficou em 7,5. Falta a área e o número de banheiros, e existe outra "Vila Albertina" em Ribeirão Preto.
 - **AP0218**: está cancelada no Kenlo e não aparece no site.
 
-## Guia de bairros: a ampliar
+## Guia de bairros: ampliação pronta (01/10/2026)
+
+Os 20 bairros novos estão em `GUIA-BAIRROS.md` (um arquivo por bairro em `guia-bairros/`). Lotes: os 5 citados, os 6 sem seção e 9 extras (Vila Everest, Umuarama, Vila Santo Antônio, Jardim Califórnia, Vila Sodipe, Recanto Feliz, Vila Britânia, Vila Natal e Vila Floresta). Ainda faltam distâncias de carro por rota e altitude, porque a rede da sessão na nuvem bloqueou o OpenStreetMap. As fichas desses bairros podem ser completadas usando só o que tem fonte.
+
+### Pedido original
 
 Para cada bairro: perfil, pontos importantes, distância até o Capivari e fontes. São cerca de 20 bairros para começar: Atalaia, Vila Paulista, Vale Feliz, Floresta Negra, Alpes de Campos do Jordão e outros.
 
