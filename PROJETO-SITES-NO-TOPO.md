@@ -28,7 +28,11 @@ Atualizado em 01/10/2026. Objetivo: todas as fichas do .com no Kenlo com nota de
   - número de edificações permitidas;
   - quantos andares (gabarito/altura);
   - tipo de comércio ou residência permitido no local.
-  Quase todos os terrenos da cidade podem ter até 3 edificações. Isso deve ser destacado, porque é ideal para quem quer construir moradias ou chalés para alugar por Booking ou Airbnb. Só citar o que estiver confirmado na lei para a zona daquele terreno. Base: ZONEAMENTO.md (mesma pasta).
+  Quase todos os terrenos da cidade podem ter até 3 edificações (regra do Roberto). Destacar isso como ideal para quem quer construir moradias ou chalés para alugar por Booking ou Airbnb. Só citar o que estiver confirmado na lei para a zona daquele terreno. Base: ZONEAMENTO.md (mesma pasta).
+  - **ATENÇÃO (pesquisa de 01/10/2026):** pelos trechos encontrados da Lei 4.144/2022, as 3 edificações na residência unifamiliar são casa principal, casa de hóspedes e casa de caseiro, e não 3 unidades independentes. Antes de escrever "3 chalés para Airbnb", leia o texto da lei e confirme com o Roberto como anunciar. Sem essa confirmação, use a forma segura do modelo no ZONEAMENTO.md.
+  - **Antes de usar números,** abra o PDF da Lei 4.144/2022 e preencha as Tabelas 07 e 08 no ZONEAMENTO.md (recuos, taxa de ocupação, coeficiente, lote mínimo, permeabilidade e área mínima por unidade): https://aeacj.com.br/wp-content/uploads/sites/5/2024/03/Lei-ordinaria-4144-2022-Campos-do-jordao-SP.pdf . A pesquisa na nuvem não conseguiu abrir a lei. Verifique também o PL 43/2026, que altera a 4.144.
+  - **Zona de cada bairro:** não confirmada. Use o mapa de zoneamento oficial ou consulte a Prefeitura.
+  - **Já confirmado:** no máximo 2 pavimentos em qualquer zona. Exceções: ZR2 pode ter 3 pavimentos com terreno acima de 5.000 m² e ocupação de até 15%; ZR3, com terreno acima de 7.500 m² e ocupação de até 15%. O município inteiro é área de proteção ambiental.
 
 ## Fichas fora da fila
 
