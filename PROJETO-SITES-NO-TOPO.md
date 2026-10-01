@@ -19,6 +19,14 @@ Atualizado em 01/10/2026. Objetivo: todas as fichas do .com no Kenlo com nota de
 - O texto cabe no limite do Kenlo, de cerca de 800 palavras.
 - Depois de gravar, recarregar a ficha no Kenlo para conferir.
 - Não usar o teclado automático em abas em segundo plano.
+- **Regra para terrenos (e casas com terreno aproveitável):** ler a lei de zoneamento (uso e ocupação do solo) de Campos do Jordão e incluir na ficha o que pode ser feito no terreno, de acordo com a zona do bairro:
+  - recuos (frente, fundos e laterais);
+  - aproveitamento do terreno (coeficiente de aproveitamento e taxa de ocupação);
+  - até quantos m² pode construir;
+  - número de edificações permitidas;
+  - quantos andares (gabarito/altura);
+  - tipo de comércio ou residência permitido no local.
+  Quase todos os terrenos da cidade podem ter até 3 edificações. Isso deve ser destacado, porque é ideal para quem quer construir moradias ou chalés para alugar por Booking ou Airbnb. Só citar o que estiver confirmado na lei para a zona daquele terreno. Base: ZONEAMENTO.md (mesma pasta).
 
 ## Fichas fora da fila
 
@@ -66,6 +74,6 @@ Retome o Projeto Sites no Topo de onde parou, sem retrabalho.
 1. Leia a central, este arquivo e o GUIA-BAIRROS.md (mesma pasta).
 2. Antes de escrever qualquer ficha, monte a lista do que já está pronto: as 221 fichas já feitas (confira a lista exata na central). Para as posições 37 a 99, abra cada ficha no Kenlo e confira se o texto novo já está gravado e íntegro (atenção ao problema do teclado). Só reescreva as que não estiverem prontas ou estiverem corrompidas.
 3. Continue pelas que faltam, com a mesma receita: palavra-chave específica, só dados reais do cadastro, até cerca de 800 palavras, nota 9,7 ou mais e tudo verde no Assistente de Redação SEO da Semrush, e recarregar a ficha no Kenlo para conferir. Não usar o teclado automático em abas em segundo plano.
-4. Para o trecho do bairro, use o GUIA-BAIRROS.md. Não use nada que esteja em "Pontos não confirmados".
+4. Para o trecho do bairro, use o GUIA-BAIRROS.md. Nos terrenos, aplique a regra de zoneamento (seção "O que funcionou") usando o ZONEAMENTO.md. Não use nada que esteja em "Pontos não confirmados".
 5. Deixe de fora SI0009, CA0503 e AP0218 até o Roberto responder as perguntas pendentes.
 6. Depois das 100 mais visitadas, siga para as demais fichas do .com e continue sem parar até finalizar todas.
