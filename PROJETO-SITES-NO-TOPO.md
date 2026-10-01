@@ -58,3 +58,13 @@ Ainda não têm seção no guia: Quebradas, Vila Nadir, Parque Imbiry, Nova Capi
 ## Lembrete
 
 A Semrush renova automaticamente em 31/10/2026, com cobrança de US$ 309,95.
+
+## Como retomar (texto para colar no Claude do computador)
+
+Retome o Projeto Sites no Topo de onde parou, sem retrabalho.
+1. Leia a central, este arquivo e o GUIA-BAIRROS.md (mesma pasta).
+2. Antes de escrever qualquer ficha, monte a lista do que já está pronto: as cerca de 131 fichas gravadas e conferidas (inclui as posições 1 a 36 das 100 mais visitadas). Para as posições 37 a 99, abra cada ficha no Kenlo e confira se o texto novo já está gravado e íntegro (atenção ao problema do teclado). Só reescreva as que não estiverem prontas ou estiverem corrompidas.
+3. Continue pelas que faltam, com a mesma receita: palavra-chave específica, só dados reais do cadastro, até cerca de 800 palavras, nota 9,7 ou mais e tudo verde no Assistente de Redação SEO da Semrush, e recarregar a ficha no Kenlo para conferir. Não usar o teclado automático em abas em segundo plano.
+4. Para o trecho do bairro, use o GUIA-BAIRROS.md. Não use nada que esteja em "Pontos não confirmados".
+5. Deixe de fora SI0009, CA0503 e AP0218 até o Roberto responder as perguntas pendentes.
+6. Depois das 100 mais visitadas, siga para as demais fichas do .com e continue sem parar até finalizar todas.
