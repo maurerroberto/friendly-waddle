@@ -1,5 +1,7 @@
 # Zoneamento de Campos do Jordão (SP): o que pode ser construído
 
+> **Confirmação do Roberto (06/10/2026):** são 3 construções no terreno, nos terrenos em que a zona permite. Nas fichas, escreva "o terreno permite até 3 construções" só quando a lei permitir para aquela zona e lote. Esse texto prevalece sobre o alerta da regra das 3 edificações mais abaixo.
+
 Levantamento feito em 01/10/2026 para uso nas fichas de terrenos.
 
 **Como este arquivo foi feito.** Neste ambiente, todos os sites com o texto das leis estavam bloqueados: leismunicipais.com.br, camaracamposdojordao.sp.gov.br, camposdojordao.sp.gov.br, aeacj.com.br, leis.org, scribd, a monografia da USP e o netcampos. Por isso, os dados abaixo saíram dos **trechos das próprias leis que aparecem nos resultados de busca**, e não da leitura direta do PDF da lei.
