@@ -1,0 +1,87 @@
+cluster,variante,volume,kd,posicao_com,posicao_net,dono,justificativa,url_alvo
+casa-venda-generica,casas a venda em campos do jordão,70,0,8,8,net,.net #2 vs .com #8; SERP igual a 'casa em campos do jordao' (mesma intenção),https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,casa em campos do jordao,500,0,11,2,net,.net #2 vs .com #11; maior volume do cluster mas .net já domina,https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,casa a venda campos do jordao,250,0,7,,com,.com #4/#7; .net não ranqueia,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casa a venda em campos do jordao,150,19,8,,com,.com #8; .net fora do top 30,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casa campos do jordao,350,0,,11,com,.net só #11; nenhum top10 -> .com (maior volume sem dono),https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casa venda campos do jordao,100,0,7,6,net,disputa .net #6 x .com #7 -> .net (melhor),https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,campos do jordao casas,70,0,9,2,net,disputa .net #2 x .com #9 -> .net,https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,campos do jordão casas a venda,80,,7,,com,.com #7; .net não ranqueia,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casas em campos do jordao,50,0,10,8,com,"disputa .com #10 x .net #8 com volumes diferentes por acento; .com fica com forma acentuada, .net migra p/ 'casas de campos do jordão'",https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casas de campos do jordão,40,,,9,net,.net #9; ângulo 'casas de montanha' do .net,https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,casas a venda campos do jordao,40,0,2,2,com,disputa .com #1 x .net #2 -> .com,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casas à venda em campos do jordão,70,0,8,8,net,.net #8; variante acentuada/plural,https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,casa à venda em campos do jordão,150,19,8,,com,nenhum ranqueia; .com maior volume,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casas a venda em campos do jordão sp,40,,,2,net,.net #2,https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,casas baratas à venda em campos do jordão,150,,,5,net,.net #5; ângulo preço,https://imoveisemcamposdojordao.net/casas
+casa-venda-generica,casa campos do jordao venda,30,,,,com,nenhum ranqueia,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-venda-generica,casa em campos do jordao venda,20,,,,net,nenhum ranqueia; segunda variante,https://imoveisemcamposdojordao.net/casas
+casa-condominio,casa condominio campos do jordao,40,,,,com,nenhum ranqueia; maior volume,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+casa-condominio,casa em condominio campos do jordao,20,,,,net,nenhum ranqueia; segunda variante,https://imoveisemcamposdojordao.net/casas
+terreno-venda,terreno campos do jordao,70,0,6,1,net,disputa .net #1 x .com #6 -> .net,https://imoveisemcamposdojordao.net/terrenos
+terreno-venda,terreno a venda campos do jordão,60,,7,11,com,disputa .com #7 x .net #11 -> .com,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/terreno
+terreno-venda,terreno a venda em campos do jordão,60,,10,11,com,disputa .com #10 x .net #11 -> .com,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/terreno
+terreno-venda,terrenos em campos do jordao,20,,,8,net,.net #8; SERP diferente de 'terreno campos do jordao' (só portais em comum),https://imoveisemcamposdojordao.net/terrenos
+terreno-venda,terreno em campos do jordao,20,,,10,net,.net #10,https://imoveisemcamposdojordao.net/terrenos
+terreno-venda,terrenos a venda em campos do jordão,50,,,11,net,.net #11 (só .net),https://imoveisemcamposdojordao.net/terrenos
+apartamento-venda,apartamento a venda em campos do jordão,20,,7,,com,.com #7,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/apartamento
+apartamento-venda,apartamentos a venda em campos do jordao,20,0,7,,com,.com #7,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/apartamento
+apartamento-venda,apartamento a venda campos do jordao,30,0,5,,com,.com #5,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/apartamento
+apartamento-venda,apartamento campos do jordao,40,0,,,net,nenhum ranqueia; .net pega as formas sem 'venda',https://imoveisemcamposdojordao.net/apartamentos
+apartamento-venda,apartamento em campos do jordao,30,0,,,net,nenhum ranqueia,https://imoveisemcamposdojordao.net/apartamentos
+apartamento-venda,apartamentos em campos do jordao,20,0,,,net,nenhum ranqueia,https://imoveisemcamposdojordao.net/apartamentos
+chacara-sitio,chacara em campos do jordão,30,,,3,net,.net #3,https://imoveisemcamposdojordao.net/imovel-chacara-venda-campos-do-jordao-agua-santa-2594
+chacara-sitio,chacara a venda em campos do jordão,30,,,2,net,.net #2,https://imoveisemcamposdojordao.net/imovel-chacara-venda-campos-do-jordao-agua-santa-2594
+chacara-sitio,chacara campos do jordao,30,,,,com,nenhum ranqueia; .com cria lista de chácaras,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/chacara
+chacara-sitio,sitio em campos do jordão,20,,,8,net,.net #8,https://imoveisemcamposdojordao.net/imoveis/venda?tipo=sitio
+chacara-sitio,chale a venda campos do jordao,20,,,,com,nenhum ranqueia,https://www.imoveisemcamposdojordao.com/imoveis/a-venda/casa
+pousada-venda,pousada a venda em campos do jordão,50,,9,6,net,disputa .net #6 x .com #9 -> .net (tem /pousadas),https://imoveisemcamposdojordao.net/pousadas
+aluguel,aluguel campos do jordão,60,0,6,8,com,disputa .com #6 x .net #8 -> .com,https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+aluguel,aluguel em campos do jordão,20,,12,8,net,disputa .net #8 x .com #12 -> .net,https://imoveisemcamposdojordao.net/imoveis/locacao
+aluguel,casas para alugar mensal em campos do jordão,100,,,5,net,.net #5,https://imoveisemcamposdojordao.net/imoveis/locacao
+aluguel,casas para alugar em campos do jordão para morar,30,,10,,com,.com #10,https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+aluguel,aluguel anual campos do jordão,10,,3,,com,.com #3,https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+aluguel,casa para alugar em campos do jordao,70,0,,,com,nenhum ranqueia; maior volume,https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+aluguel,aluguel casa campos do jordao,50,0,,,net,nenhum ranqueia; segunda,https://imoveisemcamposdojordao.net/imoveis/locacao
+aluguel,casas para alugar em campos do jordao,40,0,,,net,nenhum ranqueia,https://imoveisemcamposdojordao.net/imoveis/locacao
+aluguel,apartamentos para alugar em campos do jordão,20,,8,,com,.com #8,https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+aluguel,apartamento para alugar campos do jordão,20,,7,,com,.com #7,https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+temporada,aluguel temporada campos do jordao,200,0,,,com,nenhum ranqueia; maior volume (SERP dominada por Airbnb/portais),https://www.imoveisemcamposdojordao.com/imoveis/para-alugar
+temporada,casa temporada campos do jordao,10,0,,,net,nenhum ranqueia; segunda,https://imoveisemcamposdojordao.net/imoveis/locacao
+institucional-cidade,imoveis campos do jordão,30,,,1,net,.net #1,https://imoveisemcamposdojordao.net/
+institucional-cidade,imoveis em campos do jordão,150,,2,1,net,disputa .net #1 x .com #2 -> .net,https://imoveisemcamposdojordao.net/
+institucional-cidade,imoveis a venda em campos do jordão,20,,1,9,com,disputa .com #1 x .net #9 -> .com,https://www.imoveisemcamposdojordao.com/
+institucional-cidade,imobiliaria em campos do jordão,20,,6,3,net,disputa .net #3 x .com #6 -> .net,https://imoveisemcamposdojordao.net/
+institucional-cidade,imobiliarias em campos do jordao,20,,,,com,nenhum ranqueia; .com,https://www.imoveisemcamposdojordao.com/
+institucional-cidade,leilao imoveis campos do jordao,50,0,,,com,nenhum ranqueia; avaliar se há conteúdo,https://www.imoveisemcamposdojordao.com/
+bairros,abernéssia,300,,,1,net,.net #1 (blog),https://imoveisemcamposdojordao.net/blog/vila-abernessia-o-bairro-de-quem-mora-em-campos-do-jordao
+bairros,abernessia imoveis,30,,5,,com,.com #5,https://www.imoveisemcamposdojordao.com/abernessia
+bairros,abernessia campos do jordao,200,0,,,net,guia de bairro (.net tem blog),https://imoveisemcamposdojordao.net/blog/vila-abernessia-o-bairro-de-quem-mora-em-campos-do-jordao
+bairros,jardim elizabeth campos do jordão,60,,7,3,net,disputa .net #3 x .com #7 -> .net,https://imoveisemcamposdojordao.net/apartamentos/venda/campos-do-jordao/jardim-elizabete
+bairros,vila siomara campos do jordão,20,,3,,com,.com #3,https://www.imoveisemcamposdojordao.com/imoveis
+bairros,alto das mansões campos do jordão,70,,,7,net,.net #7 (blog),https://imoveisemcamposdojordao.net/blog/casas-de-alto-padrao-e-mansoes-a-venda-em-campos-do-jordao
+bairros,descansopolis campos do jordão,40,,,10,net,.net #10 (blog),https://imoveisemcamposdojordao.net/blog/descansopolis-campos-do-jordao-terreno-grande-e-mata-no-caminho-do-horto
+bairros,vila suiça campos do jordão,20,,,9,net,.net #9,https://imoveisemcamposdojordao.net/imovel-casa-venda-campos-do-jordao-vila-nova-suica-2618
+bairros,vila capivari campos do jordao,900,0,,,com,"nenhum ranqueia; volume turístico, .com página de bairro Capivari",https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/vila-capivari
+bairros,alto do capivari campos do jordao,100,0,,,net,nenhum ranqueia; .net tem 60 fichas no bairro,https://imoveisemcamposdojordao.net/blog (guia Alto do Capivari)
+bairros,vila inglesa campos do jordao,400,0,,,com,nenhum ranqueia,https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/vila-inglesa
+bairros,alto da vila inglesa campos do jordao,50,,,,net,nenhum ranqueia; segunda,https://imoveisemcamposdojordao.net/blog (guia Alto da Vila Inglesa)
+bairros,alto da boa vista campos do jordao,150,5,,,com,nenhum ranqueia,https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/alto-da-boa-vista
+bairros,condominio iporanga campos do jordao,70,,,,net,nenhum ranqueia,https://imoveisemcamposdojordao.net/blog (guia Iporanga)
+bairros,toriba campos do jordao,90,4,,,net,nenhum ranqueia (vol. em parte hotel Toriba),https://imoveisemcamposdojordao.net/blog
+bairro-x-tipo/zero-volume,casa a venda vila capivari,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,casas a venda capivari campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,apartamento capivari campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,apartamento a venda capivari campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,casa alto do capivari,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,casa descansopolis,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,terreno descansopolis,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,casa vila inglesa campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,casa morro do elefante,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,comprar casa em campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,comprar terreno em campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,imovel comercial campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,ponto comercial campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,apartamento temporada campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,chacara a venda campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
+bairro-x-tipo/zero-volume,pousada a venda campos do jordao,0,,,,livre,"Ahrefs: volume 0 (sem demanda medida); usar como cauda longa em fichas, sem disputa",
