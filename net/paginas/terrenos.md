@@ -1,4 +1,4 @@
-# /terrenos — Terrenos à venda em Campos do Jordão
+# /terrenos — Terreno em Campos do Jordão
 
 **URL:** https://imoveisemcamposdojordao.net/terrenos
 **Fonte dos volumes:** Ahrefs Keywords Explorer, Brasil, 11/10/2026. **Fonte das regras:** ZONEAMENTO.md (Lei Municipal 4.144/2022; APA pelo Decreto Estadual 20.956/1983 e Lei Estadual 4.105/1984).
@@ -11,16 +11,16 @@
 | Secundária | terreno campos do jordao | 70 |
 | Secundária | terrenos em campos do jordão | 50 |
 | Secundária | terrenos a venda em campos do jordao | 10 |
-| Secundária | terreno à venda em campos do jordão | sem volume medido (Ahrefs: 0) |
+| Secundária | comprar terreno em campos do jordao | sem volume medido (Ahrefs: 0; livre) |
 
 ## SEO
-- **Título:** Terrenos à venda em Campos do Jordão | Lotes na serra
-- **Meta description:** Terrenos e lotes à venda em Campos do Jordão. Veja o que a lei de zoneamento permite construir e confirme a zona do lote antes de comprar.
-- **H1:** Terrenos à venda em Campos do Jordão
+- **Título:** Terreno em Campos do Jordão | Lotes para construir
+- **Meta description:** Terreno em Campos do Jordão: lotes e áreas com mata para construir na serra. Veja o que a lei de zoneamento permite construir e confirme a zona do lote antes de comprar.
+- **H1:** Terreno em Campos do Jordão: lotes e áreas para construir
 
 ## Texto da página
 
-Quer construir na serra? Aqui estão os terrenos à venda em Campos do Jordão da nossa carteira. Tem lote em bairro urbano. Tem área maior, com mata. E tem terreno em condomínio.
+Quer construir na serra? Aqui está cada terreno em Campos do Jordão da nossa carteira, todos à venda. Tem lote em bairro urbano. Tem área maior, com mata. E tem terreno em condomínio.
 
 Filtre por bairro, tamanho e preço. Depois leia as regras abaixo. Elas evitam surpresa na hora do projeto.
 
@@ -48,7 +48,7 @@ Muita gente compra terreno pensando em aluguel por temporada. Hospedagem comerci
 
 Leia também o guia [Terreno com vista em Campos do Jordão: guia para construir chalé de temporada](https://imoveisemcamposdojordao.net/blog/terreno-com-vista-em-campos-do-jordao-guia-para-construir-chale-de-temporada).
 
-## Terrenos por bairro
+## Terrenos em Campos do Jordão por bairro
 
 - [Atalaia: o bairro de quem compra terreno para construir](https://imoveisemcamposdojordao.net/blog/atalaia-campos-do-jordao-o-bairro-de-quem-compra-terreno-para-construir)
 - [Descansópolis: terreno grande e mata no caminho do Horto](https://imoveisemcamposdojordao.net/blog/descansopolis-campos-do-jordao-terreno-grande-e-mata-no-caminho-do-horto)

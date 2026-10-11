@@ -1,4 +1,4 @@
-# /casas — Casas à venda em Campos do Jordão
+# /casas — Casa em Campos do Jordão (casas de montanha)
 
 **URL:** https://imoveisemcamposdojordao.net/casas
 **Fonte dos volumes:** Ahrefs Keywords Explorer, Brasil, consulta de 11/10/2026.
@@ -6,24 +6,23 @@
 ## Palavras-chave
 | Tipo | Palavra-chave | Volume/mês (BR) |
 |---|---|---|
-| Principal | casa campos do jordao | 350 |
-| Secundária | casa em campos do jordao | 500 |
-| Secundária | casa a venda campos do jordao | 250 |
+| Principal | casa em campos do jordao | 500 |
 | Secundária | casas baratas à venda em campos do jordão | 150 |
-| Secundária | casa a venda em campos do jordao | 150 |
 | Secundária | casa venda campos do jordao | 100 |
 | Secundária | casas a venda em campos do jordao | 70 |
 | Secundária | casas à venda em campos do jordão | 40 |
-| Secundária | casa condominio campos do jordao | 40 |
+| Secundária | casas de campos do jordão | 40 |
+| Secundária | campos do jordao casas | 70 |
+| Secundária | casa em condominio campos do jordao | 20 |
 
 ## SEO
-- **Título:** Casas à venda em Campos do Jordão | Imóveis em CJ
-- **Meta description:** Casas à venda em Campos do Jordão, das mais baratas às de alto padrão. Filtre por bairro, quartos e preço e fale com um corretor pelo WhatsApp.
-- **H1:** Casas à venda em Campos do Jordão
+- **Título:** Casa em Campos do Jordão: casas de montanha à venda
+- **Meta description:** Casa em Campos do Jordão para morar, passar o fim de semana ou investir: casas de montanha das mais baratas às de alto padrão. Filtre por bairro e preço.
+- **H1:** Casa em Campos do Jordão: as casas de montanha da nossa carteira
 
 ## Texto da página
 
-Procurando casa em Campos do Jordão? Aqui estão as casas à venda da nossa carteira. Tem casa para morar o ano todo. Tem casa de fim de semana. E tem casa para quem quer investir na serra.
+Procurando casa em Campos do Jordão? Aqui estão as casas de montanha da nossa carteira, todas à venda. Tem casa para morar o ano todo. Tem casa de fim de semana. E tem casa para quem quer investir na serra.
 
 Use os filtros da busca. Escolha o bairro, o número de quartos e a faixa de preço. A lista mostra só o que está disponível hoje.
 
@@ -51,7 +50,7 @@ Veja as casas por bairro:
 
 Quer comparar bairros antes? Leia o guia [Melhores bairros de Campos do Jordão para morar e comprar imóvel](https://imoveisemcamposdojordao.net/blog/melhores-bairros-de-campos-do-jordao-para-morar-e-comprar-imovel) e o post [Casas à venda em Campos do Jordão: bairros e preços](https://imoveisemcamposdojordao.net/blog/casas-a-venda-em-campos-do-jordao-bairros-e-precos).
 
-## Casa em condomínio ou casa de rua?
+## Casa em Campos do Jordão: em condomínio ou de rua?
 
 Casa em condomínio costuma ter portaria e áreas comuns. Em troca, tem taxa mensal e regras internas. Casa de rua dá mais liberdade, mas a segurança fica por sua conta.
 

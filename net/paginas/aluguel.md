@@ -6,27 +6,25 @@
 ## Palavras-chave
 | Tipo | Palavra-chave | Volume/mês (BR) |
 |---|---|---|
-| Principal | aluguel campos do jordão | 250 |
-| Secundária | aluguel temporada campos do jordao | 200 |
-| Secundária | casas para alugar mensal em campos do jordão | 100 |
-| Secundária | casa para alugar em campos do jordao | 70 |
+| Principal | aluguel em campos do jordao | 20 |
+| Principal | casas para alugar mensal em campos do jordão | 100 |
 | Secundária | aluguel casa campos do jordao | 50 |
 | Secundária | casa alugar campos do jordao | 40 |
 | Secundária | casas para alugar em campos do jordao | 40 |
-| Secundária | aluguel em campos do jordao | 20 |
+| Secundária | casa temporada campos do jordao | 10 |
 
 ## SEO
-- **Título:** Aluguel em Campos do Jordão: mensal e temporada
-- **Meta description:** Casas e apartamentos para alugar em Campos do Jordão. Entenda a diferença entre aluguel mensal e de temporada e fale com um corretor pelo WhatsApp.
-- **H1:** Aluguel em Campos do Jordão: casas e apartamentos para alugar
+- **Título:** Aluguel em Campos do Jordão: casas para alugar por mês
+- **Meta description:** Aluguel em Campos do Jordão para morar: casas e apartamentos para alugar por mês. Veja a diferença para a temporada e fale com um corretor no WhatsApp.
+- **H1:** Aluguel em Campos do Jordão: casas e apartamentos para alugar por mês
 
 ## Texto da página
 
-Quer alugar em Campos do Jordão? Primeiro, defina o tipo de aluguel. Morar na cidade é uma coisa. Passar uma temporada é outra. As regras, os contratos e os imóveis são diferentes.
+Procurando aluguel em Campos do Jordão? Primeiro, defina o tipo de aluguel. Morar na cidade é uma coisa. Passar uma temporada é outra. As regras, os contratos e os imóveis são diferentes.
 
 Nesta página estão os imóveis para locação da nossa carteira. Use os filtros para escolher tipo, bairro e número de quartos.
 
-## Aluguel mensal (residencial)
+## Aluguel mensal em Campos do Jordão (residencial)
 
 O aluguel mensal é para quem vai morar em Campos do Jordão. É o contrato residencial comum, regido pela Lei do Inquilinato (Lei 8.245/1991).
 

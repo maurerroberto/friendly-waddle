@@ -9,15 +9,13 @@
 |---|---|---|
 | Principal | imóveis em campos do jordão | 150 (sem acento) / 30 (com acento) |
 | Principal | imobiliária em campos do jordão | 30 |
-| Secundária | imoveis a venda em campos do jordão | 90 |
 | Secundária | imoveis campos do jordao | 30 |
 | Secundária | imobiliaria campos do jordao | 20 |
-| Secundária | imobiliárias em campos do jordão | 20 |
-| Secundária | apartamento a venda campos do jordao | 30 |
+| Secundária | apartamento campos do jordao | 40 |
 
 ## SEO
 - **Título:** Imóveis em Campos do Jordão | Imobiliária na serra
-- **Meta description:** Imobiliária em Campos do Jordão: casas, apartamentos, terrenos e pousadas à venda e para alugar. Busque por bairro e fale com um corretor no WhatsApp.
+- **Meta description:** Imobiliária em Campos do Jordão: casas, apartamentos, terrenos, pousadas e chácaras para comprar, alugar por mês ou permutar. Busque por bairro e fale no WhatsApp.
 - **H1:** Imóveis em Campos do Jordão: imobiliária na Serra da Mantiqueira
 
 ## Texto da página
@@ -26,19 +24,19 @@ Bem-vindo à Imóveis em Campos do Jordão. Somos uma imobiliária na cidade. Tr
 
 Aqui você encontra casas, apartamentos, terrenos, pousadas, sítios e chácaras. Use a busca para filtrar por tipo, bairro, quartos e preço.
 
-## Imóveis à venda em Campos do Jordão
+## Comprar imóveis em Campos do Jordão
 
 Quer comprar? Comece pelo tipo de imóvel:
-- [Casas à venda](https://imoveisemcamposdojordao.net/casas)
-- [Apartamentos à venda](https://imoveisemcamposdojordao.net/apartamentos)
+- [Casas](https://imoveisemcamposdojordao.net/casas)
+- [Apartamentos](https://imoveisemcamposdojordao.net/apartamentos)
 - [Terrenos e lotes](https://imoveisemcamposdojordao.net/terrenos)
-- [Pousadas à venda](https://imoveisemcamposdojordao.net/pousadas)
+- [Pousada à venda](https://imoveisemcamposdojordao.net/pousadas)
 - [Sítios](https://imoveisemcamposdojordao.net/sitios) e [chácaras](https://imoveisemcamposdojordao.net/chacaras)
 - [Áreas para incorporação](https://imoveisemcamposdojordao.net/areas-para-incorporacao)
 
-Ou veja [todos os imóveis à venda](https://imoveisemcamposdojordao.net/imoveis/venda).
+Ou veja [todos os imóveis para comprar](https://imoveisemcamposdojordao.net/imoveis/venda).
 
-## Aluguel em Campos do Jordão
+## Casas para alugar por mês
 
 Também temos imóveis para alugar. Antes de buscar, defina se é aluguel mensal, para morar, ou de temporada, para estadias curtas. São contratos diferentes. Veja os [imóveis para locação](https://imoveisemcamposdojordao.net/imoveis/locacao).
 

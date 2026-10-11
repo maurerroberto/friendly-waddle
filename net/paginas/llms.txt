@@ -9,13 +9,13 @@
 
 ## Categorias
 - [Todos os imóveis](https://imoveisemcamposdojordao.net/imoveis): busca completa
-- [Imóveis à venda](https://imoveisemcamposdojordao.net/imoveis/venda)
-- [Imóveis para alugar](https://imoveisemcamposdojordao.net/imoveis/locacao): aluguel mensal e de temporada
+- [Imóveis para comprar](https://imoveisemcamposdojordao.net/imoveis/venda)
+- [Aluguel em Campos do Jordão](https://imoveisemcamposdojordao.net/imoveis/locacao): casas para alugar por mês e temporada
 - [Imóveis para permuta](https://imoveisemcamposdojordao.net/imoveis/permuta)
-- [Casas](https://imoveisemcamposdojordao.net/casas)
+- [Casa em Campos do Jordão](https://imoveisemcamposdojordao.net/casas): casas de montanha
 - [Apartamentos](https://imoveisemcamposdojordao.net/apartamentos)
-- [Terrenos e lotes](https://imoveisemcamposdojordao.net/terrenos)
-- [Pousadas](https://imoveisemcamposdojordao.net/pousadas)
+- [Terreno em Campos do Jordão](https://imoveisemcamposdojordao.net/terrenos): lotes
+- [Pousada à venda](https://imoveisemcamposdojordao.net/pousadas)
 - [Áreas para incorporação](https://imoveisemcamposdojordao.net/areas-para-incorporacao)
 - [Sítios](https://imoveisemcamposdojordao.net/sitios)
 - [Chácaras](https://imoveisemcamposdojordao.net/chacaras)
@@ -40,7 +40,7 @@
 - [Morro do Elefante](https://imoveisemcamposdojordao.net/blog/morro-do-elefante-campos-do-jordao-morar-no-cartao-postal-da-cidade)
 - [Atalaia](https://imoveisemcamposdojordao.net/blog/atalaia-campos-do-jordao-o-bairro-de-quem-compra-terreno-para-construir)
 
-## Bairros (casas à venda)
+## Bairros (casas por bairro)
 - [Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/capivari)
 - [Vila Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-capivari)
 - [Alto do Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/alto-do-capivari)

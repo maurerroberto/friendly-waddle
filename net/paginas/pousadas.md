@@ -1,4 +1,4 @@
-# /pousadas — Pousadas à venda em Campos do Jordão
+# /pousadas — Pousada à venda em Campos do Jordão
 
 **URL:** https://imoveisemcamposdojordao.net/pousadas
 **Fonte dos volumes:** Ahrefs Keywords Explorer, Brasil, 11/10/2026. **Fonte das regras:** ZONEAMENTO.md (Lei Municipal 4.144/2022, definição de "meios de hospedagem").
@@ -14,13 +14,13 @@
 Obs.: as buscas grandes de "pousada" são de hóspedes. A página deve deixar claro no título e no H1 que é **venda**.
 
 ## SEO
-- **Título:** Pousadas à venda em Campos do Jordão | Imóveis em CJ
-- **Meta description:** Pousadas à venda em Campos do Jordão para quem quer investir em hospedagem na serra. Veja o que avaliar e fale com um corretor pelo WhatsApp.
-- **H1:** Pousadas à venda em Campos do Jordão
+- **Título:** Pousada à venda em Campos do Jordão | Invista na serra
+- **Meta description:** Pousada à venda em Campos do Jordão para quem quer investir em hospedagem na serra. Veja o que avaliar e fale com um corretor pelo WhatsApp.
+- **H1:** Pousada à venda em Campos do Jordão: hospedagem para investir
 
 ## Texto da página
 
-Quer ter uma pousada em Campos do Jordão? Aqui estão as pousadas à venda da nossa carteira. São imóveis já montados para hospedagem. Alguns estão em funcionamento. Outros precisam de reforma.
+Procurando uma pousada à venda em Campos do Jordão? Aqui estão as pousadas da nossa carteira. São imóveis já montados para hospedagem. Alguns estão em funcionamento. Outros precisam de reforma.
 
 Use os filtros para ver bairro, número de quartos e preço. Depois, fale com um corretor para saber os detalhes de cada uma.
 
@@ -30,7 +30,7 @@ Campos do Jordão é uma cidade turística. A procura por hospedagem é forte, s
 
 Mas atenção: o movimento muda ao longo do ano. Antes de comprar, peça os números reais da operação. Ocupação, faturamento e custos fixos fazem toda a diferença.
 
-## O que avaliar numa pousada à venda
+## O que avaliar numa pousada à venda em Campos do Jordão
 
 Uma pousada é imóvel e negócio ao mesmo tempo. Confira os dois lados.
 
