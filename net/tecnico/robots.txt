@@ -1,0 +1,43 @@
+# robots.txt - imoveisemcamposdojordao.net
+# Publicar em https://imoveisemcamposdojordao.net/robots.txt (raiz, texto puro, HTTP 200)
+
+# Regras gerais (valem para todos os robôs, inclusive os listados abaixo)
+User-agent: *
+Disallow: /Busca
+Disallow: /busca
+Disallow: /imprimir-
+Disallow: /*?pmin=
+Disallow: /*&pmin=
+Disallow: /*?pmax=
+Disallow: /*&pmax=
+Disallow: /*?ordem=
+Disallow: /*&ordem=
+Disallow: /*?pagina=
+Disallow: /*?page=
+Disallow: /*?q=
+Allow: /
+
+# Buscadores e robôs de IA explicitamente liberados (mesmas regras de bloqueio)
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+Disallow: /Busca
+Disallow: /busca
+Disallow: /imprimir-
+Disallow: /*?pmin=
+Disallow: /*&pmin=
+Disallow: /*?pmax=
+Disallow: /*&pmax=
+Disallow: /*?ordem=
+Disallow: /*&ordem=
+Disallow: /*?pagina=
+Disallow: /*?page=
+Disallow: /*?q=
+Allow: /
+
+Sitemap: https://imoveisemcamposdojordao.net/sitemap.xml

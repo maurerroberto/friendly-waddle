@@ -1,0 +1,96 @@
+{
+  "_leia_me": "Modelos JSON-LD para o GoMóvel. Cada bloco vai num <script type=\"application/ld+json\"> no <head>. Trocar {{...}} pelos campos do sistema. NÃO inventar dados: se um campo estiver vazio, remover a linha. Validar em validator.schema.org e search.google.com/test/rich-results.",
+
+  "1_todas_as_paginas_RealEstateAgent_LocalBusiness": {
+    "@context": "https://schema.org",
+    "@type": ["RealEstateAgent", "LocalBusiness"],
+    "@id": "https://imoveisemcamposdojordao.net/#imobiliaria",
+    "name": "Imóveis em Campos do Jordão",
+    "url": "https://imoveisemcamposdojordao.net/",
+    "logo": "{{URL_LOGO}}",
+    "image": "{{URL_FOTO_FACHADA_OU_LOGO}}",
+    "telephone": "{{TELEFONE}}",
+    "email": "{{EMAIL}}",
+    "priceRange": "{{FAIXA_DE_PRECO}}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{RUA_E_NUMERO}}",
+      "addressLocality": "Campos do Jordão",
+      "addressRegion": "SP",
+      "postalCode": "{{CEP}}",
+      "addressCountry": "BR"
+    },
+    "geo": { "@type": "GeoCoordinates", "latitude": "{{LATITUDE}}", "longitude": "{{LONGITUDE}}" },
+    "openingHoursSpecification": [
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "{{ABRE}}", "closes": "{{FECHA}}" }
+    ],
+    "areaServed": { "@type": "City", "name": "Campos do Jordão" },
+    "identifier": { "@type": "PropertyValue", "name": "CRECI", "value": "{{CRECI}}" },
+    "sameAs": ["{{URL_PERFIL_GOOGLE}}", "{{URL_INSTAGRAM}}", "{{URL_FACEBOOK}}", "{{URL_YOUTUBE}}"]
+  },
+
+  "2_ficha_de_imovel_RealEstateListing": {
+    "@context": "https://schema.org",
+    "@type": "RealEstateListing",
+    "@id": "{{URL_DA_FICHA}}#anuncio",
+    "url": "{{URL_DA_FICHA}}",
+    "name": "{{TITULO_DA_FICHA}}",
+    "description": "{{META_DESCRIPTION}}",
+    "datePosted": "{{DATA_PUBLICACAO_AAAA-MM-DD}}",
+    "image": ["{{URL_FOTO_1}}", "{{URL_FOTO_2}}", "{{URL_FOTO_3}}"],
+    "identifier": "{{REFERENCIA}}",
+    "offeredBy": { "@id": "https://imoveisemcamposdojordao.net/#imobiliaria" },
+    "about": {
+      "@type": "{{House|Apartment|SingleFamilyResidence|Residence|Place}}",
+      "name": "{{TIPO}} no bairro {{BAIRRO}}, Campos do Jordão",
+      "floorSize": { "@type": "QuantitativeValue", "value": "{{AREA_CONSTRUIDA}}", "unitCode": "MTK" },
+      "numberOfRooms": "{{DORMITORIOS}}",
+      "numberOfBedrooms": "{{DORMITORIOS}}",
+      "numberOfBathroomsTotal": "{{BANHEIROS}}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Campos do Jordão",
+        "addressRegion": "SP",
+        "addressCountry": "BR",
+        "streetAddress": "{{BAIRRO}}"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "{{PRECO_SO_NUMEROS_EX_1250000}}",
+      "priceCurrency": "BRL",
+      "availability": "https://schema.org/InStock",
+      "businessFunction": "{{http://purl.org/goodrelations/v1#Sell | http://purl.org/goodrelations/v1#LeaseOut}}",
+      "url": "{{URL_DA_FICHA}}",
+      "seller": { "@id": "https://imoveisemcamposdojordao.net/#imobiliaria" }
+    }
+  },
+
+  "2b_terreno_variacao_do_about": {
+    "@type": "Place",
+    "name": "Terreno no bairro {{BAIRRO}}, Campos do Jordão",
+    "additionalProperty": { "@type": "PropertyValue", "name": "Área do terreno", "value": "{{AREA_TERRENO}}", "unitCode": "MTK" },
+    "address": { "@type": "PostalAddress", "addressLocality": "Campos do Jordão", "addressRegion": "SP", "addressCountry": "BR" }
+  },
+
+  "3_BreadcrumbList_ficha": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Início", "item": "https://imoveisemcamposdojordao.net/" },
+      { "@type": "ListItem", "position": 2, "name": "{{CATEGORIA_EX_Casas}}", "item": "https://imoveisemcamposdojordao.net/{{SLUG_CATEGORIA_EX_casas}}" },
+      { "@type": "ListItem", "position": 3, "name": "{{TITULO_CURTO_DA_FICHA}}", "item": "{{URL_DA_FICHA}}" }
+    ]
+  },
+
+  "4_FAQPage_categorias": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "_obs": "Só usar se as MESMAS perguntas e respostas estiverem visíveis na página. Texto editável por categoria no painel.",
+    "mainEntity": [
+      { "@type": "Question", "name": "{{PERGUNTA_1}}", "acceptedAnswer": { "@type": "Answer", "text": "{{RESPOSTA_1}}" } },
+      { "@type": "Question", "name": "{{PERGUNTA_2}}", "acceptedAnswer": { "@type": "Answer", "text": "{{RESPOSTA_2}}" } },
+      { "@type": "Question", "name": "{{PERGUNTA_3}}", "acceptedAnswer": { "@type": "Answer", "text": "{{RESPOSTA_3}}" } }
+    ]
+  }
+}
