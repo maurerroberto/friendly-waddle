@@ -1,0 +1,180 @@
+issue_id,name,importance,category,is_indexable,crawled,change,added,new,removed,missing
+b23ae498-5dee-4626-930b-9d5facd8a17d,Changed pages not submitted to IndexNow,Notice,AI Discoverability,,70,70,,,,
+12f55bdd-c905-4076-a19e-300ca2b63e70,Inconsistent AI training bot policy,Notice,AI Discoverability,,0,0,0,0,0,0
+08e86644-7958-4ea5-ba05-8af25f3a310c,Indexable page blocked from all AI search bots,Warning,AI Discoverability,,0,0,0,0,0,0
+0f6ec0d9-db0f-4518-bc71-8a85c488dd26,Indexable page blocked from some AI search bots,Notice,AI Discoverability,,0,0,0,0,0,0
+a69b2b51-5202-49a2-96ae-d5c7fabdec4e,Main content requires JavaScript rendering,Warning,AI Discoverability,,0,0,0,0,0,0
+910e33d1-443b-4606-b950-deb7c659510f,Page size exceeds 2 MB crawl limit,Error,AI Discoverability,,0,0,0,0,0,0
+47ecb343-5ef9-47f7-b417-476a10702c22,Similar AI-generated content,Warning,AI Discoverability,,0,0,0,0,0,0
+dd9582b9-6fec-4d9a-94f3-c67013fc26a1,Slow server response for AI crawlers,Warning,AI Discoverability,,53,38,52,1,15,0
+c64d5626-d0f4-11e7-8ed1-001e67ed4656,Duplicate pages without canonical,Error,Duplicates,,0,0,0,0,0,0
+c64d358b-d0f4-11e7-8ed1-001e67ed4656,CSS broken,Warning,CSS,,0,0,0,0,0,0
+c64d859f-d0f4-11e7-8ed1-001e67ed4656,CSS file size too large,Warning,CSS,,1,0,0,0,0,0
+18babe02-feb5-11e8-b126-001e67ed4657,CSS redirects,Warning,CSS,,0,0,0,0,0,0
+7945ee9a-feb5-11e8-9c77-001e67ed4657,HTTPS page links to HTTP CSS,Warning,CSS,,0,0,0,0,0,0
+3a68909c-feb5-11e8-a4c3-001e67ed4657,Page has broken CSS,Warning,CSS,,0,0,0,0,0,0
+5b4053a4-feb5-11e8-a8ae-001e67ed4657,Page has redirected CSS,Warning,CSS,,0,0,0,0,0,0
+c64d34be-d0f4-11e7-8ed1-001e67ed4656,3XX page receives organic traffic,Error,Other,,0,0,0,0,0,0
+c64d558c-d0f4-11e7-8ed1-001e67ed4656,403 page receives organic traffic,Error,Other,,0,0,0,0,0,0
+c64d3b5a-d0f4-11e7-8ed1-001e67ed4656,4XX page receives organic traffic,Error,Other,,0,0,0,0,0,0
+c64d3a17-d0f4-11e7-8ed1-001e67ed4656,Double slash in URL,Error,Other,,0,0,0,0,0,0
+c64d8a57-d0f4-11e7-8ed1-001e67ed4656,More than three parameters in URL,Notice,Other,,0,0,0,0,0,0
+54e472ee-0653-4afc-9be4-c0a5b4c09f6e,No. of referring domains dropped,Notice,Other,,0,0,,,,
+c64d84df-d0f4-11e7-8ed1-001e67ed4656,Noindex page receives organic traffic,Error,Other,,0,0,0,0,0,0
+c64d362b-d0f4-11e7-8ed1-001e67ed4656,Non-canonical page receives organic traffic,Notice,Other,,0,0,0,0,0,0
+cb8ebb59-3502-4193-b4f1-a154bc0dddbe,Organic traffic dropped,Notice,Other,,0,0,,,,
+f2e4c823-6a12-42e9-8083-960d78f19dc3,Pages dropped from Top 10,Notice,Other,,0,0,,,,
+8ca9e4b6-2258-4a46-ba98-66f008848db1,Robots.txt changed,Warning,Other,,0,0,,,,
+9111b6c4-198e-401d-a91e-156f97f83d59,Robots.txt has syntax error,Error,Other,,0,0,0,0,0,0
+1f27ccb2-ebfe-4941-af1e-972a56cd6ed5,Robots.txt has too many redirects or redirect loop,Error,Other,,0,0,0,0,0,0
+91326507-26f0-4b4b-a680-bfdff5dd74c7,Robots.txt is not accessible,Error,Other,,0,0,0,0,0,0
+b366c49a-f514-45e5-9d9a-66cfff18f68b,Robots.txt rules disallow to crawl,Notice,Other,,0,0,0,0,0,0
+b35de3ae-76f2-49cc-bb8f-33bc4aaedf10,Structured data has Google rich results validation error,Notice,Other,,0,0,0,0,0,0
+c22e9647-5a8f-4352-8b38-14cb66d7f101,Structured data has schema.org validation error,Notice,Other,,0,0,0,0,0,0
+c64d8847-d0f4-11e7-8ed1-001e67ed4656,External 3XX redirect,Notice,External pages,,0,0,0,0,0,0
+c64d89a6-d0f4-11e7-8ed1-001e67ed4656,External 4XX,Notice,External pages,,0,0,0,0,0,0
+c64da9e3-d0f4-11e7-8ed1-001e67ed4656,External 5XX,Notice,External pages,,0,0,0,0,0,0
+c64d11d6-d0f4-11e7-8ed1-001e67ed4656,External time out,Notice,External pages,,0,0,0,0,0,0
+9cb115e3-7380-4f73-9ec0-7628c3393bdd,H1 tag changed,Notice,Content,1,9,9,,,,
+838c947a-001a-11e8-823b-001e67ed4656,H1 tag missing or empty,Notice,Content,0,0,0,0,0,0,0
+c64d9d0b-d0f4-11e7-8ed1-001e67ed4656,H1 tag missing or empty,Warning,Content,1,1,0,0,0,0,0
+684a079a-430e-11ea-9add-001e67ed2cd7,Low word count,Notice,Content,0,0,0,0,0,0,0
+c64da01e-d0f4-11e7-8ed1-001e67ed4656,Low word count,Warning,Content,1,0,0,0,0,0,0
+7bbfc9eb-ed59-4bba-970d-fd98cc2ac0fe,Meta description changed,Notice,Content,1,11,11,,,,
+57751310-001c-11e8-b746-001e67ed4656,Meta description tag missing or empty,Warning,Content,0,0,0,0,0,0,0
+c64d31f0-d0f4-11e7-8ed1-001e67ed4656,Meta description tag missing or empty,Warning,Content,1,0,0,0,0,0,0
+02085644-001c-11e8-8e51-001e67ed4656,Meta description too long,Notice,Content,0,0,0,0,0,0,0
+c64d56c9-d0f4-11e7-8ed1-001e67ed4656,Meta description too long,Warning,Content,1,394,-4,0,7,8,3
+8d785026-001c-11e8-aa34-001e67ed4656,Meta description too short,Notice,Content,0,0,0,0,0,0,0
+c64d5156-d0f4-11e7-8ed1-001e67ed4656,Meta description too short,Warning,Content,1,0,0,0,0,0,0
+79ec14d4-001c-11e8-ae09-001e67ed4656,Multiple H1 tags,Notice,Content,0,0,0,0,0,0,0
+c64d52ef-d0f4-11e7-8ed1-001e67ed4656,Multiple H1 tags,Notice,Content,1,391,4,0,7,0,3
+1fa83188-001c-11e8-a742-001e67ed4656,Multiple meta description tags,Warning,Content,0,0,0,0,0,0,0
+c64d7795-d0f4-11e7-8ed1-001e67ed4656,Multiple meta description tags,Error,Content,1,0,0,0,0,0,0
+c64d81a5-d0f4-11e7-8ed1-001e67ed4656,Multiple title tags,Error,Content,1,0,0,0,0,0,0
+ed48318e-001b-11e8-8cdd-001e67ed4656,Multiple title tags,Warning,Content,0,0,0,0,0,0,0
+d69246c2-225a-11ec-8456-06d2f2f613d8,Page and SERP titles do not match,Notice,Content,1,16,3,3,1,0,1
+6048d416-8373-4ba2-bbac-3472997590fb,Pages have high AI content levels,Notice,Content,1,5,5,,,,
+24c2faf0-0fab-40f1-9adf-3a73cdc59ceb,SERP title changed,Notice,Content,1,0,0,,,,
+3f369e7f-85fc-48fc-84b7-9cf28faafffc,Title tag changed,Notice,Content,1,5,5,,,,
+345c781e-001c-11e8-b616-001e67ed4656,Title tag missing or empty,Warning,Content,0,0,0,0,0,0,0
+c64d7840-d0f4-11e7-8ed1-001e67ed4656,Title tag missing or empty,Error,Content,1,0,0,0,0,0,0
+6a46d032-001c-11e8-99f1-001e67ed4656,Title too long,Notice,Content,0,0,0,0,0,0,0
+c64dac3a-d0f4-11e7-8ed1-001e67ed4656,Title too long,Warning,Content,1,817,-4,0,8,1,11
+43b1d34a-001c-11e8-8bfe-001e67ed4656,Title too short,Notice,Content,0,0,0,0,0,0,0
+c64d3bf4-d0f4-11e7-8ed1-001e67ed4656,Title too short,Warning,Content,1,0,0,0,0,0,0
+b6a947e0-910c-4f71-81e2-666bdbc8559b,Word count changed,Notice,Content,1,3,3,,,,
+6c2437d0-fde8-11e8-9607-001e67ed4657,HTTPS page links to HTTP image,Warning,Images,,0,0,0,0,0,0
+c0e87084-feaf-11e8-8c05-001e67ed4657,Image broken,Error,Images,,0,0,0,0,0,0
+c64d8113-d0f4-11e7-8ed1-001e67ed4656,Image file size too large,Error,Images,,0,0,0,0,0,0
+f409aca8-feaf-11e8-b63d-001e67ed4657,Image redirects,Warning,Images,,0,0,0,0,0,0
+c64d9be3-d0f4-11e7-8ed1-001e67ed4656,Missing alt text,Warning,Images,,216,-4,2,0,0,6
+34412dfa-feb0-11e8-a306-001e67ed4657,Page has broken image,Error,Images,,0,0,0,0,0,0
+4baf1c90-feb0-11e8-9842-001e67ed4657,Page has redirected image,Warning,Images,,0,0,0,0,0,0
+c64d336c-d0f4-11e7-8ed1-001e67ed4656,Canonical from HTTP to HTTPS,Notice,Indexability,,0,0,0,0,0,0
+c64dafd9-d0f4-11e7-8ed1-001e67ed4656,Canonical from HTTPS to HTTP,Notice,Indexability,,0,0,0,0,0,0
+c64d8074-d0f4-11e7-8ed1-001e67ed4656,Canonical points to 4XX,Error,Indexability,,0,0,0,0,0,0
+c64d79e8-d0f4-11e7-8ed1-001e67ed4656,Canonical points to 5XX,Error,Indexability,,0,0,0,0,0,0
+c64d54e6-d0f4-11e7-8ed1-001e67ed4656,Canonical points to redirect,Error,Indexability,,0,0,0,0,0,0
+3d528372-1259-4306-937b-4b66e186296a,Canonical URL changed,Notice,Indexability,,0,0,,,,
+96c86162-fe10-4013-bbd1-d55431913a9d,Indexable page became non-indexable,Notice,Indexability,,1,1,,,,
+c64daaa3-d0f4-11e7-8ed1-001e67ed4656,Nofollow in HTML and HTTP header,Warning,Indexability,,0,0,0,0,0,0
+c64d7a9c-d0f4-11e7-8ed1-001e67ed4656,Nofollow page,Warning,Indexability,,0,0,0,0,0,0
+c64d3765-d0f4-11e7-8ed1-001e67ed4656,Noindex and nofollow page,Notice,Indexability,,0,0,0,0,0,0
+f485750c-10a0-11e8-a32a-001e67ed4656,Noindex follow page,Notice,Indexability,,0,0,0,0,0,0
+c64d32b3-d0f4-11e7-8ed1-001e67ed4656,Noindex in HTML and HTTP header,Warning,Indexability,,0,0,0,0,0,0
+c64d588b-d0f4-11e7-8ed1-001e67ed4656,Noindex page,Warning,Indexability,,0,0,0,0,0,0
+e73a0779-4292-4db3-9a3f-973b20947167,Noindex page became indexable,Notice,Indexability,,0,0,,,,
+80403128-3bd4-11e8-96e0-001e67ed4657,Non-canonical page specified as canonical one,Warning,Indexability,,0,0,0,0,0,0
+c64dae3f-d0f4-11e7-8ed1-001e67ed4656,404 page,Error,Internal pages,,1,0,1,0,0,1
+c64da643-d0f4-11e7-8ed1-001e67ed4656,4XX page,Error,Internal pages,,1,0,1,0,0,1
+c64d40b0-d0f4-11e7-8ed1-001e67ed4656,500 page,Error,Internal pages,,0,0,0,0,0,0
+c64d38a1-d0f4-11e7-8ed1-001e67ed4656,5XX page,Error,Internal pages,,0,0,0,0,0,0
+c64d9ea6-d0f4-11e7-8ed1-001e67ed4656,HTTPS/HTTP mixed content,Warning,Internal pages,,0,0,0,0,0,0
+c64d3811-d0f4-11e7-8ed1-001e67ed4656,Timed out,Error,Internal pages,,0,0,0,0,0,0
+b278c328-feb4-11e8-9681-001e67ed4657,HTTPS page links to HTTP JavaScript,Warning,JavaScript,,0,0,0,0,0,0
+c64dab77-d0f4-11e7-8ed1-001e67ed4656,JavaScript broken,Error,JavaScript,,0,0,0,0,0,0
+2b32882c-feb4-11e8-930d-001e67ed4657,JavaScript redirects,Warning,JavaScript,,0,0,0,0,0,0
+56c9d152-feb4-11e8-b65d-001e67ed4657,Page has broken JavaScript,Error,JavaScript,,0,0,0,0,0,0
+8699d134-feb4-11e8-9895-001e67ed4657,Page has redirected JavaScript,Warning,JavaScript,,0,0,0,0,0,0
+c64d3d21-d0f4-11e7-8ed1-001e67ed4656,Canonical URL has no incoming internal links,Error,Links,1,0,0,0,0,0,0
+c64d7df6-d0f4-11e7-8ed1-001e67ed4656,HTTP page has internal links to HTTPS,Notice,Links,1,0,0,0,0,0,0
+fb3391ae-00b0-11e8-bb10-001e67ed4656,HTTP page has internal links to HTTPS,Notice,Links,0,0,0,0,0,0,0
+46d24344-00b1-11e8-9ab2-001e67ed4656,HTTPS page has internal links to HTTP,Warning,Links,0,0,0,0,0,0,0
+c64d82d6-d0f4-11e7-8ed1-001e67ed4656,HTTPS page has internal links to HTTP,Error,Links,1,0,0,0,0,0,0
+944b9296-00b2-11e8-aeb8-001e67ed4656,Orphan page (has no incoming internal links),Warning,Links,0,0,0,0,0,0,0
+c64d7e96-d0f4-11e7-8ed1-001e67ed4656,Orphan page (has no incoming internal links),Error,Links,1,0,0,0,0,0,0
+6193420a-00b1-11e8-930a-001e67ed4656,Page has links to broken page,Warning,Links,0,0,0,0,0,0,0
+c64daf06-d0f4-11e7-8ed1-001e67ed4656,Page has links to broken page,Error,Links,1,1,0,1,0,1,0
+7272a5c0-00b1-11e8-ae24-001e67ed4656,Page has links to redirect,Notice,Links,0,0,0,0,0,0,0
+c64d3aa7-d0f4-11e7-8ed1-001e67ed4656,Page has links to redirect,Warning,Links,1,0,-1,0,0,1,0
+2632db12-00b1-11e8-a1b8-001e67ed4656,Page has no outgoing links,Warning,Links,0,0,0,0,0,0,0
+c64d86f0-d0f4-11e7-8ed1-001e67ed4656,Page has no outgoing links,Error,Links,1,0,0,0,0,0,0
+c64dad62-d0f4-11e7-8ed1-001e67ed4656,Page has nofollow and dofollow incoming internal links,Notice,Links,1,0,0,0,0,0,0
+e52bbf42-00b2-11e8-861d-001e67ed4656,Page has nofollow and dofollow incoming internal links,Notice,Links,0,0,0,0,0,0,0
+c64d36c7-d0f4-11e7-8ed1-001e67ed4656,Page has nofollow incoming internal links only,Warning,Links,1,0,0,0,0,0,0
+d21618ee-00b2-11e8-b8b2-001e67ed4656,Page has nofollow incoming internal links only,Notice,Links,0,0,0,0,0,0,0
+864b441c-00b1-11e8-bfe2-001e67ed4656,Page has nofollow outgoing internal links,Notice,Links,0,0,0,0,0,0,0
+c64da7a0-d0f4-11e7-8ed1-001e67ed4656,Page has nofollow outgoing internal links,Notice,Links,1,0,0,0,0,0,0
+c64d863c-d0f4-11e7-8ed1-001e67ed4656,Page has only one dofollow incoming internal link,Notice,Links,1,217,11,26,7,19,3
+f6d1d4fc-00b2-11e8-9066-001e67ed4656,Page has only one dofollow incoming internal link,Notice,Links,0,0,0,0,0,0,0
+bfebbc1e-00b2-11e8-a20b-001e67ed4656,Redirected page has no incoming internal links,Notice,Links,0,0,0,0,0,0,0
+c64d59c5-d0f4-11e7-8ed1-001e67ed4656,Redirected page has no incoming internal links,Warning,Links,1,0,0,0,0,0,0
+c64d5446-d0f4-11e7-8ed1-001e67ed4656,Hreflang and HTML lang mismatch,Error,Localization,,0,0,0,0,0,0
+c64da934-d0f4-11e7-8ed1-001e67ed4656,Hreflang annotation invalid,Error,Localization,,0,0,0,0,0,0
+c64d7f46-d0f4-11e7-8ed1-001e67ed4656,Hreflang defined but HTML lang missing,Warning,Localization,,0,0,0,0,0,0
+c64d5765-d0f4-11e7-8ed1-001e67ed4656,Hreflang to non-canonical,Error,Localization,,0,0,0,0,0,0
+c64d401b-d0f4-11e7-8ed1-001e67ed4656,Hreflang to redirect or broken page,Error,Localization,,0,0,0,0,0,0
+c64d8236-d0f4-11e7-8ed1-001e67ed4656,HTML lang attribute invalid,Error,Localization,,0,0,0,0,0,0
+c64d7bfd-d0f4-11e7-8ed1-001e67ed4656,HTML lang attribute missing,Warning,Localization,,0,0,0,0,0,0
+c64d592c-d0f4-11e7-8ed1-001e67ed4656,Missing reciprocal hreflang (no return-tag),Error,Localization,,0,0,0,0,0,0
+c64d3c8d-d0f4-11e7-8ed1-001e67ed4656,More than one page for same language in hreflang,Error,Localization,,0,0,0,0,0,0
+c64d7d54-d0f4-11e7-8ed1-001e67ed4656,Not all pages from hreflang group were crawled,Notice,Localization,,0,0,0,0,0,0
+c64d1033-d0f4-11e7-8ed1-001e67ed4656,Page referenced for more than one language in hreflang,Error,Localization,,0,0,0,0,0,0
+c64d78f3-d0f4-11e7-8ed1-001e67ed4656,Self-reference hreflang annotation missing,Warning,Localization,,0,0,0,0,0,0
+c64d340d-d0f4-11e7-8ed1-001e67ed4656,X-default hreflang annotation missing,Notice,Localization,,0,0,0,0,0,0
+463bc603-e3f6-4eb1-a1d3-d3312aa87714,Content is not sized correctly,Warning,Usability and performance,,0,0,0,0,0,0
+a6e3f8ec-acba-45d5-be55-fdaac8ec116f,Document uses plugins,Warning,Usability and performance,,0,0,0,0,0,0
+be934cd0-e02a-4e4c-bff5-2f954287a24d,Font size too small,Warning,Usability and performance,,0,0,0,0,0,0
+c64da874-d0f4-11e7-8ed1-001e67ed4656,HTML file size too large,Warning,Usability and performance,,0,0,0,0,0,0
+c64d9de1-d0f4-11e7-8ed1-001e67ed4656,Not compressed,Warning,Usability and performance,,0,0,0,0,0,0
+d383c31c-925d-44ed-94a7-92c5e8e0fe41,Page stopped passing CWV requirements,Warning,Usability and performance,,0,0,,,,
+09a46610-1538-11ec-a251-0aa06bfc17da,Pages with poor CLS,Warning,Usability and performance,,0,0,0,0,0,0
+ba925b7a-1539-11ec-8544-0aa06bfc17da,Pages with poor FID,Warning,Usability and performance,,0,0,0,0,0,0
+85c01513-d747-49f5-8235-2b356bb4c686,Pages with poor INP,Warning,Usability and performance,,0,0,0,0,0,0
+462ac1d6-153a-11ec-ae90-0aa06bfc17da,Pages with poor LCP,Warning,Usability and performance,,0,0,0,0,0,0
+c64d7cbc-d0f4-11e7-8ed1-001e67ed4656,Slow page,Warning,Usability and performance,,207,142,186,4,47,1
+8a7cdd75-8fb8-402c-8cc5-5b38bc5472e6,Tap targets too small or too close together,Warning,Usability and performance,,0,0,0,0,0,0
+7b162258-6738-4ac6-a3c5-daf9593681fb,Viewport not set,Warning,Usability and performance,,0,0,0,0,0,0
+c64cf724-d0f4-11e7-8ed1-001e67ed4656,302 redirect,Warning,Redirects,,0,0,0,0,0,0
+c64d12c1-d0f4-11e7-8ed1-001e67ed4656,3XX redirect,Warning,Redirects,,3,0,0,0,0,0
+351b3b6e-ec76-11e7-a1e2-001e67ed4656,Broken redirect,Error,Redirects,,0,0,0,0,0,0
+c64d5080-d0f4-11e7-8ed1-001e67ed4656,HTTP to HTTPS redirect,Notice,Redirects,,2,0,0,0,0,0
+c64d3ef6-d0f4-11e7-8ed1-001e67ed4656,HTTPS to HTTP redirect,Warning,Redirects,,0,0,0,0,0,0
+c64d5233-d0f4-11e7-8ed1-001e67ed4656,Meta refresh redirect,Notice,Redirects,,0,0,0,0,0,0
+c64d7b51-d0f4-11e7-8ed1-001e67ed4656,Redirect chain,Notice,Redirects,,1,0,0,0,0,0
+aa35e302-1532-11ec-be41-0aa06bfc17da,Redirect chain too long,Error,Redirects,,0,0,0,0,0,0
+9ad91154-de76-11e8-879d-001e67ed4657,Redirect loop,Error,Redirects,,0,0,0,0,0,0
+c877a3f9-450f-4b6f-b536-f76cec40f46d,Redirect target changed,Notice,Redirects,,0,0,,,,
+c64d7fdf-d0f4-11e7-8ed1-001e67ed4656,3XX redirect in sitemap,Error,Sitemaps,,0,0,0,0,0,0
+c64d76be-d0f4-11e7-8ed1-001e67ed4656,4XX page in sitemap,Error,Sitemaps,,0,0,0,0,0,0
+c64d1e78-d0f4-11e7-8ed1-001e67ed4656,5XX page in sitemap,Error,Sitemaps,,0,0,0,0,0,0
+b5f8f6d0-8f91-4af3-8569-6ea442f122e7,Indexable page not in sitemap,Notice,Sitemaps,,1304,5,0,22,1,16
+1a5a375d-5529-4179-b6b0-d2d075687f44,No. of URLs in sitemap decreased,Notice,Sitemaps,,0,0,,,,
+c64d53a0-d0f4-11e7-8ed1-001e67ed4656,Noindex page in sitemap,Error,Sitemaps,,0,0,0,0,0,0
+c64d87a0-d0f4-11e7-8ed1-001e67ed4656,Non-canonical page in sitemap,Error,Sitemaps,,0,0,0,0,0,0
+c64d843b-d0f4-11e7-8ed1-001e67ed4656,Page from sitemap timed out,Error,Sitemaps,,0,0,0,0,0,0
+41b8a46d-a157-4b62-bea3-a30b58c59a22,Page in multiple sitemaps,Notice,Sitemaps,,0,0,0,0,0,0
+200a698b-a97d-45b5-ac5f-44683b91dbd9,Pages added to sitemaps,Notice,Sitemaps,,0,0,,,,
+1d2dcd1b-2d09-4d11-9a9f-e2d08af55454,Pages removed from sitemaps,Notice,Sitemaps,,0,0,,,,
+2e8ae87a-fc93-440a-81c8-0255d16bc750,Sitemap has syntax error,Error,Sitemaps,,0,0,0,0,0,0
+bef5195b-d8a7-4316-845e-2ee45a0724a4,Sitemap in the wrong format,Warning,Sitemaps,,0,0,0,0,0,0
+714bf237-bb34-4c64-a238-59cd5108233d,Sitemap includes URLs out of its scope,Warning,Sitemaps,,0,0,0,0,0,0
+df634009-c696-4c27-9cb9-5bc37d58093f,Sitemap is not accessible,Error,Sitemaps,,0,0,0,0,0,0
+583f6b4b-735a-418f-b5e8-f416701ba015,Sitemap larger 50MB,Error,Sitemaps,,0,0,0,0,0,0
+4f5f249b-820f-4407-94f9-22389b5085bc,Sitemap with over 50K URLs,Error,Sitemaps,,0,0,0,0,0,0
+c64d8b03-d0f4-11e7-8ed1-001e67ed4656,Open Graph tags incomplete,Warning,Social tags,,0,0,0,0,0,0
+c64d413f-d0f4-11e7-8ed1-001e67ed4656,Open Graph tags missing,Notice,Social tags,,0,0,0,0,0,0
+c64d3974-d0f4-11e7-8ed1-001e67ed4656,Open Graph URL not matching canonical,Warning,Social tags,,0,0,0,0,0,0
+c64d3e57-d0f4-11e7-8ed1-001e67ed4656,X (Twitter) card incomplete,Warning,Social tags,,0,0,0,0,0,0
+c64d3dbd-d0f4-11e7-8ed1-001e67ed4656,X (Twitter) card missing,Notice,Social tags,,0,0,0,0,0,0
