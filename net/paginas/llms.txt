@@ -1,0 +1,79 @@
+# Imóveis em Campos do Jordão
+
+> Imobiliária em Campos do Jordão (SP), na Serra da Mantiqueira. Venda, locação (mensal e temporada) e permuta de casas, apartamentos, terrenos, pousadas, sítios e chácaras na cidade e região.
+
+- Endereço: {{ENDERECO}}
+- Telefone/WhatsApp: {{TELEFONE}}
+- CRECI: {{CRECI}}
+- Regras de construção: todo o município é Área de Proteção Ambiental (APA). Pela Lei Municipal 4.144/2022, em regra até 2 pavimentos; a zona de cada lote deve ser confirmada na Prefeitura (certidão de uso do solo).
+
+## Categorias
+- [Todos os imóveis](https://imoveisemcamposdojordao.net/imoveis): busca completa
+- [Imóveis à venda](https://imoveisemcamposdojordao.net/imoveis/venda)
+- [Imóveis para alugar](https://imoveisemcamposdojordao.net/imoveis/locacao): aluguel mensal e de temporada
+- [Imóveis para permuta](https://imoveisemcamposdojordao.net/imoveis/permuta)
+- [Casas](https://imoveisemcamposdojordao.net/casas)
+- [Apartamentos](https://imoveisemcamposdojordao.net/apartamentos)
+- [Terrenos e lotes](https://imoveisemcamposdojordao.net/terrenos)
+- [Pousadas](https://imoveisemcamposdojordao.net/pousadas)
+- [Áreas para incorporação](https://imoveisemcamposdojordao.net/areas-para-incorporacao)
+- [Sítios](https://imoveisemcamposdojordao.net/sitios)
+- [Chácaras](https://imoveisemcamposdojordao.net/chacaras)
+- [Coberturas](https://imoveisemcamposdojordao.net/coberturas)
+- [Hotéis](https://imoveisemcamposdojordao.net/hoteis)
+
+## Guias
+- [Melhores bairros de Campos do Jordão para morar e comprar imóvel](https://imoveisemcamposdojordao.net/blog/melhores-bairros-de-campos-do-jordao-para-morar-e-comprar-imovel)
+- [Casas à venda: bairros e preços](https://imoveisemcamposdojordao.net/blog/casas-a-venda-em-campos-do-jordao-bairros-e-precos)
+- [Apartamentos à venda: bairros e preços](https://imoveisemcamposdojordao.net/blog/apartamentos-a-venda-em-campos-do-jordao-bairros-e-precos)
+- [Terrenos à venda: bairros e preços](https://imoveisemcamposdojordao.net/blog/terrenos-a-venda-em-campos-do-jordao-bairros-e-precos)
+- [Aluguel anual: como funciona](https://imoveisemcamposdojordao.net/blog/alugar-em-campos-do-jordao-como-funciona-o-mercado-de-locacao-anual)
+- [Quanto custa morar em Campos do Jordão](https://imoveisemcamposdojordao.net/blog/quanto-custa-morar-em-campos-do-jordao)
+- [Condomínios fechados](https://imoveisemcamposdojordao.net/blog/condominios-em-campos-do-jordao-casas-e-terrenos-em-condominio-fechado)
+- [Terreno com vista para chalé de temporada](https://imoveisemcamposdojordao.net/blog/terreno-com-vista-em-campos-do-jordao-guia-para-construir-chale-de-temporada)
+- [Quem somos](https://imoveisemcamposdojordao.net/blog/quem-somos-imobiliaria-em-campos-do-jordao)
+
+## Bairros (guias)
+- [Vila Abernéssia](https://imoveisemcamposdojordao.net/blog/vila-abernessia-o-bairro-de-quem-mora-em-campos-do-jordao)
+- [Alto da Boa Vista](https://imoveisemcamposdojordao.net/blog/alto-da-boa-vista-tranquilidade-e-cultura-em-campos-do-jordao)
+- [Descansópolis](https://imoveisemcamposdojordao.net/blog/descansopolis-campos-do-jordao-terreno-grande-e-mata-no-caminho-do-horto)
+- [Morro do Elefante](https://imoveisemcamposdojordao.net/blog/morro-do-elefante-campos-do-jordao-morar-no-cartao-postal-da-cidade)
+- [Atalaia](https://imoveisemcamposdojordao.net/blog/atalaia-campos-do-jordao-o-bairro-de-quem-compra-terreno-para-construir)
+
+## Bairros (casas à venda)
+- [Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/capivari)
+- [Vila Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-capivari)
+- [Alto do Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/alto-do-capivari)
+- [Nova Capivari](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/nova-capivari)
+- [Vila Abernéssia](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-abernessia)
+- [Jardim Embaixador](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/jardim-embaixador)
+- [Alto da Boa Vista](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/alto-da-boa-vista)
+- [Descansópolis](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/descansopolis)
+- [Atalaia](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/atalaia)
+- [Jardim Belvedere](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/jardim-belvedere)
+- [Jardim Califórnia](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/jardim-california)
+- [Floresta Negra](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/floresta-negra)
+- [Imbiry](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/imbiry)
+- [Quebradas](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/quebradas)
+- [Recanto Feliz](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/recanto-feliz)
+- [Vale Feliz](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vale-feliz)
+- [Vila Britânia](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-britania)
+- [Vila Everest](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-everest)
+- [Vila Iara](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-iara)
+- [Vila Nadir](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-nadir)
+- [Vila Natal](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-natal)
+- [Vila Paulista](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-paulista)
+- [Vila Sodipe](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-sodipe)
+- [Jardim Véu da Noiva](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/jardim-veu-da-noiva)
+- [Morro do Elefante](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/morro-do-elefante)
+- [Vila Inglesa](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/vila-inglesa)
+- [Cidade do Sol](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/cidade-do-sol)
+- [Jardim Manancial](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/jardim-manancial)
+- [Fonte Simão](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/fonte-simao)
+- [Toriba](https://imoveisemcamposdojordao.net/casas/venda/campos-do-jordao/toriba)
+
+## Optional
+- [Dúvidas frequentes](https://imoveisemcamposdojordao.net/duvidas-e-perguntas-frequentes)
+- [Anunciar imóvel](https://imoveisemcamposdojordao.net/anunciar-imovel)
+- [Avaliar imóvel](https://imoveisemcamposdojordao.net/avaliar-imovel)
+- [Atendimento](https://imoveisemcamposdojordao.net/atendimento)

@@ -17,8 +17,8 @@
 | Secundária | casa condominio campos do jordao | 40 |
 
 ## SEO
-- **Título (52 car.):** Casas à venda em Campos do Jordão | Imóveis em CJ
-- **Meta description (150 car.):** Casas à venda em Campos do Jordão, das mais baratas às de alto padrão. Filtre por bairro, quartos e preço e fale com um corretor pelo WhatsApp.
+- **Título:** Casas à venda em Campos do Jordão | Imóveis em CJ
+- **Meta description:** Casas à venda em Campos do Jordão, das mais baratas às de alto padrão. Filtre por bairro, quartos e preço e fale com um corretor pelo WhatsApp.
 - **H1:** Casas à venda em Campos do Jordão
 
 ## Texto da página

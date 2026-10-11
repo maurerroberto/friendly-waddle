@@ -14,8 +14,8 @@
 | Secundária | terreno à venda em campos do jordão | sem volume medido (Ahrefs: 0) |
 
 ## SEO
-- **Título (50 car.):** Terrenos à venda em Campos do Jordão | Lotes na serra
-- **Meta description (150 car.):** Terrenos e lotes à venda em Campos do Jordão. Veja o que a lei de zoneamento permite construir e confirme a zona do lote antes de comprar.
+- **Título:** Terrenos à venda em Campos do Jordão | Lotes na serra
+- **Meta description:** Terrenos e lotes à venda em Campos do Jordão. Veja o que a lei de zoneamento permite construir e confirme a zona do lote antes de comprar.
 - **H1:** Terrenos à venda em Campos do Jordão
 
 ## Texto da página
