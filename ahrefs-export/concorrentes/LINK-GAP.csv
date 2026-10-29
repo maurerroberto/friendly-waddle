@@ -1,18 +1,25 @@
 dominio,DR,trafego_dominio,n_concorrentes,n_locais,concorrentes,tipo
-magicpin.com,32.0,244772,6,6,altitudeimoveis.com.br|capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br,diretório/guia comercial
-urlm.com.br,9.0,1529,6,6,capivariimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|marcomuratori.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,diretório/guia comercial
-benditoguia.com.br,26.0,2502,5,5,capivariimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br|marcomuratori.com.br|muratoriimoveis.com.br,guia turístico/local de Campos do Jordão
+urlm.com.br,9.0,1529,10,10,cadij.com.br|capivariimoveis.com.br|euronegocios.com.br|imoveisemcamposdojordao.net|juarezzimoveis.com.br|leardi.com.br|marcomuratori.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br|opcaoimoveis.com,diretório/guia comercial
+magicpin.com,32.0,244772,9,8,altitudeimoveis.com.br|capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|juarezzimoveis.com.br|leardi.com.br|luxuryproperties.com.br|marciosantosimoveis.com.br|opcaoimoveis.com,diretório/guia comercial
+benditoguia.com.br,26.0,2502,7,7,cadij.com.br|capivariimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br|marcomuratori.com.br|muratoriimoveis.com.br|opcaoimoveis.com,guia turístico/local de Campos do Jordão
+telelistas.net,60.0,18821,4,4,capivariimoveis.com.br|imoveisemcamposdojordao.net|juarezzimoveis.com.br|leardi.com.br,diretório/guia comercial
 cuiket.com.br,19.0,223,4,4,capivariimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|montanhesimoveis.com.br,diretório/guia comercial
 guiacalt.com.br,0.0,6,4,4,capivariimoveis.com.br|domaniimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br,diretório/guia comercial
 tournacity.com.br,0.0,11,4,4,capivariimoveis.com.br|domaniimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br,diretório/guia comercial
+linktr.ee,94.0,7709638,5,3,altitudeimoveis.com.br|leardi.com.br|muratoriimoveis.com.br|vivareal.com.br|zapimoveis.com.br,perfil de empresa/link-in-bio/base de dados
 wanderlog.com,78.0,2176232,3,3,altitudeimoveis.com.br|capivariimoveis.com.br|marcomuratori.com.br,guia turístico/local de Campos do Jordão
-telelistas.net,60.0,18821,3,3,capivariimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br,diretório/guia comercial
-misterwhat.com.br,31.0,890,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,diretório/guia comercial
-listatudo.com.br,24.0,6195,2,2,imoveisemcamposdojordao.net|leardi.com.br,diretório/guia comercial
+misterwhat.com.br,31.0,890,4,3,capivariimoveis.com.br|luxuryproperties.com.br|montanhesimoveis.com.br|opcaoimoveis.com,diretório/guia comercial
+listatudo.com.br,24.0,6195,3,3,imoveisemcamposdojordao.net|juarezzimoveis.com.br|leardi.com.br,diretório/guia comercial
+datanyze.com,78.0,40513,2,2,euronegocios.com.br|leardi.com.br,perfil de empresa/link-in-bio/base de dados
+rocketreach.co,76.0,4207436,2,2,leardi.com.br|muratoriimoveis.com.br,perfil de empresa/link-in-bio/base de dados
+guiame.com.br,67.0,11748,2,2,cadij.com.br|opcaoimoveis.com,diretório/guia comercial
+netcampos.com,26.0,2358,2,2,muratoriimoveis.com.br|opcaoimoveis.com,guia turístico/local de Campos do Jordão
+crunchbase.com,91.0,2447724,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,perfil de empresa/link-in-bio/base de dados
 r7.com,82.0,6116538,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,notícia/mídia
 comunidades.net,73.0,39148,2,1,leardi.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
 cps.sp.gov.br,72.0,115286,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,governo
 portaldofranchising.com.br,70.0,35250,2,1,leardi.com.br|zapimoveis.com.br,entidade de classe/associação
+real49.com.br,0.0,7,2,1,cesaresantannaimoveis.com.br|luxuryproperties.com.br,outro (verificar)
 google.com,100.0,1832267264,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 apple.com,97.0,419815360,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 github.com,97.0,37962576,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
@@ -36,6 +43,7 @@ azure.com,91.0,144316,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 kaggle.com,90.0,673130,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 linklist.bio,90.0,157089,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 abril.com.br,89.0,7966949,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+usp.br,88.0,1737320,2,0,luxuryproperties.com.br|vivareal.com.br,universidade/educação
 oraclecloud.com,88.0,500751,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 cbinsights.com,87.0,130047,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 camara.leg.br,87.0,2581967,2,0,vivareal.com.br|zapimoveis.com.br,governo
@@ -72,6 +80,7 @@ uff.br,78.0,149693,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
 goias.gov.br,78.0,314559,2,0,vivareal.com.br|zapimoveis.com.br,governo
 vakinha.com.br,78.0,68084,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 stays.net,77.0,102112,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+opovo.com.br,76.0,1067954,2,0,luxuryproperties.com.br|vivareal.com.br,notícia/mídia
 olx.com.br,76.0,12900099,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
 workana.com,76.0,402089,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 globalpropertyguide.com,76.0,10084,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
@@ -86,6 +95,7 @@ consumidormoderno.com.br,74.0,5154,2,0,vivareal.com.br|zapimoveis.com.br,notíci
 almg.gov.br,74.0,312140,2,0,vivareal.com.br|zapimoveis.com.br,governo
 ufpa.br,74.0,106333,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
 bmfbovespa.com.br,74.0,33589,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+fia.com.br,73.0,998050,2,0,luxuryproperties.com.br|zapimoveis.com.br,universidade/educação
 ufjf.br,73.0,107541,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
 trf3.jus.br,73.0,321313,2,0,vivareal.com.br|zapimoveis.com.br,governo
 expat.com,72.0,27342,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
@@ -107,17 +117,15 @@ grupoolx.com.br,70.0,196358,2,0,vivareal.com.br|zapimoveis.com.br,portal/softwar
 proteste.org.br,70.0,50791,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
 revistaoeste.com,69.0,1061163,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
 newsblogsports.site,6.0,0,7,7,capivariimoveis.com.br|cesaresantannaimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|marcomuratori.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+r2.dev,90.0,31000,8,6,cadij.com.br|domaniimoveis.com.br|marciosantosimoveis.com.br|marcomuratori.com.br|muratoriimoveis.com.br|opcaoimoveis.com|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+dexxoo.com,0.0,64,6,6,capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|imoveisemcamposdojordao.net|juarezzimoveis.com.br|marcomuratori.com.br,spam/diretório automático ou perfil (baixo valor)
 backlinkstree.com,1.1,0,6,6,capivariimoveis.com.br|domaniimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 way2check.art,0.4,0,6,6,capivariimoveis.com.br|cesaresantannaimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
-dexxoo.com,0.0,64,5,5,capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|imoveisemcamposdojordao.net|marcomuratori.com.br,spam/diretório automático ou perfil (baixo valor)
 bisprofit.com,1.3,0,5,5,altitudeimoveis.com.br|capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|leardi.com.br,spam/diretório automático ou perfil (baixo valor)
-r2.dev,90.0,31000,6,4,domaniimoveis.com.br|marciosantosimoveis.com.br|marcomuratori.com.br|muratoriimoveis.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 tamz.ai,9.0,0,4,4,altitudeimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br|marcomuratori.com.br,spam/diretório automático ou perfil (baixo valor)
-linktr.ee,94.0,7709638,5,3,altitudeimoveis.com.br|leardi.com.br|muratoriimoveis.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+globalrankdirectory.com,15.0,1,4,3,euronegocios.com.br|imoveisemcamposdojordao.net|luxuryproperties.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 masihnyata.com,0.0,0,3,3,altitudeimoveis.com.br|marcomuratori.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
-rocketreach.co,76.0,4207436,2,2,leardi.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 klazify.com,44.0,78,2,2,altitudeimoveis.com.br|capivariimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
-globalrankdirectory.com,15.0,1,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 businessdirectorybd.com,13.0,126,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 searchstackdirectory.com,19.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 linkboostdirectory.com,15.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
@@ -137,6 +145,5 @@ revan-me.com,3.7,0,2,2,imoveisemcamposdojordao.net|leardi.com.br,spam/diretório
 eliterankdirectory.com,1.8,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 enterprisedirectoryhub.com,0.7,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 casa-alegre.com,0.0,0,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
-crunchbase.com,91.0,2447724,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 grokipedia.com,79.0,71367,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
 accio.com,76.0,268724,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
