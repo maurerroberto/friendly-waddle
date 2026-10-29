@@ -75,7 +75,7 @@ Ainda não têm seção no guia: Quebradas, Vila Nadir, Parque Imbiry, Nova Capi
 Decisão do Roberto (29/10/2026) sobre as ferramentas:
 - **Semrush:** manter. É o plano Guru mensal, de US$ 309,95, no cartão final 0759. A última cobrança foi em 30/09, então a próxima deve cair em 30/10.
 - **DataForSEO:** manter. É saldo pré-pago, sem mensalidade (compra de R$ 274,00 em 26/09).
-- **Ahrefs:** cancelar. O Roberto vai cancelar pelo Link/Stripe. O plano é o Standard, de US$ 249 por mês, e renovaria em 29/10. Daqui em diante, usar o Ahrefs Webmaster Tools gratuito.
+- **Ahrefs:** cancelada pelo Roberto em 29/10/2026. Até o fim do dia não tinha chegado no Gmail nem recibo da renovação nem e-mail de confirmação do cancelamento. O plano é o Standard, de US$ 249 por mês, e renovaria em 29/10. Daqui em diante, usar o Ahrefs Webmaster Tools gratuito.
 
 ## Como retomar (texto para colar no Claude do computador)
 
