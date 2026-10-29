@@ -1,0 +1,18 @@
+{
+  "healthscores": [
+    {
+      "project_id": "10408012",
+      "project_name": "Imoveisemcamposdojordao",
+      "target_protocol": "both",
+      "target_url": "imoveisemcamposdojordao.com/",
+      "target_mode": "subdomains",
+      "date": "2026-10-26T02:41:30Z",
+      "status": "Completed",
+      "health_score": 91,
+      "urls_with_errors": 202,
+      "urls_with_warnings": 1740,
+      "urls_with_notices": 2014,
+      "total": 2241
+    }
+  ]
+}

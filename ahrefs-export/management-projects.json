@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "project_id": "10408012",
+      "project_name": "Imoveisemcamposdojordao",
+      "url": "imoveisemcamposdojordao.com/",
+      "mode": "subdomains",
+      "protocol": "both",
+      "access": "shared",
+      "verified": true,
+      "folder": null,
+      "owned_by": "robertomaurer@gmail.com",
+      "keyword_count": 0,
+      "web_analytics_data_key": "7KONidyuJBFWZhvV2TM5gQ"
+    },
+    {
+      "project_id": "10408013",
+      "project_name": "Imoveisemcamposdojordao",
+      "url": "imoveisemcamposdojordao.net/",
+      "mode": "subdomains",
+      "protocol": "both",
+      "access": "shared",
+      "verified": true,
+      "folder": null,
+      "owned_by": "robertomaurer@gmail.com",
+      "keyword_count": 0,
+      "web_analytics_data_key": "Azl50dGsrtfS4C3U90jL2A"
+    },
+    {
+      "project_id": "10408014",
+      "project_name": "Imoveisemcamposdojordao",
+      "url": "www.imoveisemcamposdojordao.com/",
+      "mode": "subdomains",
+      "protocol": "both",
+      "access": "shared",
+      "verified": true,
+      "folder": null,
+      "owned_by": "robertomaurer@gmail.com",
+      "keyword_count": 0,
+      "web_analytics_data_key": "7KONidyuJBFWZhvV2TM5gQ"
+    }
+  ]
+}

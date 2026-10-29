@@ -1,0 +1,10 @@
+Fonte: Ahrefs serp-overview (BR), filtrado type=organic,local_pack, top 10 (exceto "imóveis em campos do jordão": top 12 todos os tipos).
+Posições ausentes na sequência (ex.: 1 ou 2) = resultado não-orgânico (AI overview, imagens, PAA etc.) filtrado.
+Sem SERP na base Ahrefs (positions vazio) para as grafias exatas pedidas:
+ - "terrenos à venda campos do jordão", "terreno à venda em campos do jordão"  -> usada a variante "terreno campos do jordão" (vol 250)
+ - "apartamento à venda campos do jordão", "apartamento à venda em campos do jordão" -> usada "apartamento a venda em campos do jordão" (vol 150)
+ - "casa em condomínio campos do jordão", "casa em condominio campos do jordao" -> usada "condomínio campos do jordão" (vol 100; SERP dominada por condomínios homônimos de Ribeirão Preto/Curitiba)
+ - "chácara à venda campos do jordão", "chácara à venda em campos do jordão" -> usada "chacara a venda em campos do jordão" (vol 20)
+Adicionadas por volume: "casas a venda em campos do jordão" (vol 350, maior head term) e "casa em campos do jordão" (vol 200).
+Volumes: keywords-explorer-overview BR. "imobiliária campos do jordão" vol 100 (KD não disponível); "imobiliaria em campos do jordão" vol 30 KD 26.
+Datas de atualização das SERPs Ahrefs: set-out/2026.

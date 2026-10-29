@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "url": "https://www.imoveisemcamposdojordao.com/imovel/terreno-campos-do-jordao-5-531-m/TE0200-JRLM",
+      "http_code": 200,
+      "title": [ "Terreno com vista para a cidade à venda no Atalaia" ],
+      "depth": 0,
+      "traffic": 0.0,
+      "incoming_all_links": 0,
+      "links_count_internal4xx": 0,
+      "page_is_noindex": false,
+      "canonical": "https://www.imoveisemcamposdojordao.com/imovel/terreno-campos-do-jordao-5-531-m/TE0200-JRLM"
+    },
+    {
+      "url": "https://www.imoveisemcamposdojordao.com/imovel/casa-campos-do-jordao-5-quartos/CA0125-JRLM",
+      "http_code": 200,
+      "title": [ "Sobrado com três lojas e três casas em Campos do Jordão" ],
+      "depth": 0,
+      "traffic": 0.0,
+      "incoming_all_links": 0,
+      "links_count_internal4xx": 0,
+      "page_is_noindex": false,
+      "canonical": "https://www.imoveisemcamposdojordao.com/imovel/casa-campos-do-jordao-5-quartos/CA0125-JRLM"
+    },
+    {
+      "url": "https://www.imoveisemcamposdojordao.com/imovel/casa-campos-do-jordao-5-quartos-567-m/CA0434-JRLM",
+      "http_code": 200,
+      "title": [ "Casa com calefação à venda no Alto do Capivari" ],
+      "depth": 0,
+      "traffic": 0.0,
+      "incoming_all_links": 0,
+      "links_count_internal4xx": 0,
+      "page_is_noindex": false,
+      "canonical": "https://www.imoveisemcamposdojordao.com/imovel/casa-campos-do-jordao-5-quartos-567-m/CA0434-JRLM"
+    },
+    {
+      "url": "https://www.imoveisemcamposdojordao.com/imovel/casa-campos-do-jordao-3-quartos-385-m/CA0153-JRLM",
+      "http_code": 200,
+      "title": [
+        "Casa térrea de 385 m² e 3 suítes com vista da Pedra do Baú"
+      ],
+      "depth": 0,
+      "traffic": 0.0,
+      "incoming_all_links": 0,
+      "links_count_internal4xx": 0,
+      "page_is_noindex": false,
+      "canonical": "https://www.imoveisemcamposdojordao.com/imovel/casa-campos-do-jordao-3-quartos-385-m/CA0153-JRLM"
+    }
+  ]
+}

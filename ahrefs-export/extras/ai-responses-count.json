@@ -1,0 +1,7 @@
+{
+ "data_consulta": "2026-10-29 (data padrao = mais recente)",
+ "imoveisemcamposdojordao.com": {"all_platforms":{"citations":19,"pages":6},"chatgpt":{"citations":1,"pages":1},"perplexity":{"citations":0,"pages":0},"gemini":{"citations":0,"pages":0},"copilot":{"citations":0,"pages":0},"google_ai_overviews":{"citations":0,"pages":0},"google_ai_mode":{"citations":0,"pages":0},"grok":{"citations":0,"pages":0},"google_ai_overviews_keywords":{"citations":18,"pages":5}},
+ "imoveisemcamposdojordao.net": {"all_platforms":{"citations":41,"pages":13},"chatgpt":{"citations":2,"pages":3},"perplexity":{"citations":0,"pages":0},"gemini":{"citations":2,"pages":1},"copilot":{"citations":0,"pages":0},"google_ai_overviews":{"citations":2,"pages":1},"google_ai_mode":{"citations":0,"pages":0},"grok":{"citations":0,"pages":0},"google_ai_overviews_keywords":{"citations":35,"pages":10}},
+ "imoveisemcamposdojordao.com.br": {"all_platforms":{"citations":0,"pages":0},"chatgpt":{"citations":0,"pages":0},"google_ai_overviews_keywords":{"citations":0,"pages":0}},
+ "brand_radar": "INDISPONIVEL: API retornou 'Missing addon: Brand Radar' para chatgpt e google_ai_overviews; nenhum relatorio Brand Radar existente (management-brand-radar-reports = []). Nao foi criado relatorio pois o addon e pago."
+}
