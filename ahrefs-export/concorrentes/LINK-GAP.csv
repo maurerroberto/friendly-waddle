@@ -1,0 +1,142 @@
+dominio,DR,trafego_dominio,n_concorrentes,n_locais,concorrentes,tipo
+magicpin.com,32.0,244772,6,6,altitudeimoveis.com.br|capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br,diretório/guia comercial
+urlm.com.br,9.0,1529,6,6,capivariimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|marcomuratori.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,diretório/guia comercial
+benditoguia.com.br,26.0,2502,5,5,capivariimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br|marcomuratori.com.br|muratoriimoveis.com.br,guia turístico/local de Campos do Jordão
+cuiket.com.br,19.0,223,4,4,capivariimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|montanhesimoveis.com.br,diretório/guia comercial
+guiacalt.com.br,0.0,6,4,4,capivariimoveis.com.br|domaniimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br,diretório/guia comercial
+tournacity.com.br,0.0,11,4,4,capivariimoveis.com.br|domaniimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br,diretório/guia comercial
+wanderlog.com,78.0,2176232,3,3,altitudeimoveis.com.br|capivariimoveis.com.br|marcomuratori.com.br,guia turístico/local de Campos do Jordão
+telelistas.net,60.0,18821,3,3,capivariimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br,diretório/guia comercial
+misterwhat.com.br,31.0,890,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,diretório/guia comercial
+listatudo.com.br,24.0,6195,2,2,imoveisemcamposdojordao.net|leardi.com.br,diretório/guia comercial
+r7.com,82.0,6116538,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,notícia/mídia
+comunidades.net,73.0,39148,2,1,leardi.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
+cps.sp.gov.br,72.0,115286,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,governo
+portaldofranchising.com.br,70.0,35250,2,1,leardi.com.br|zapimoveis.com.br,entidade de classe/associação
+google.com,100.0,1832267264,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+apple.com,97.0,419815360,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+github.com,97.0,37962576,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+wikipedia.org,97.0,3105905152,2,0,vivareal.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
+shopify.com,97.0,9315355,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+amazonaws.com,95.0,1889475,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+bsky.app,94.0,769064,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+nytimes.com,94.0,114734736,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+wixsite.com,94.0,1367898,2,0,vivareal.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
+netlify.app,93.0,1400898,2,0,vivareal.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
+www.gov.br,92.0,22262062,2,0,vivareal.com.br|zapimoveis.com.br,governo
+hostingersite.com,92.0,13793,2,0,vivareal.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
+windows.net,92.0,460661,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+heylink.me,92.0,1763972,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+beacons.ai,91.0,275622,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+zyrosite.com,91.0,4532,2,0,vivareal.com.br|zapimoveis.com.br,plataforma de blog/wiki (UGC)
+elpais.com,91.0,9032984,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+uol.com.br,91.0,75163344,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+workers.dev,91.0,25006,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+azure.com,91.0,144316,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+kaggle.com,90.0,673130,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+linklist.bio,90.0,157089,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+abril.com.br,89.0,7966949,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+oraclecloud.com,88.0,500751,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+cbinsights.com,87.0,130047,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+camara.leg.br,87.0,2581967,2,0,vivareal.com.br|zapimoveis.com.br,governo
+estadao.com.br,87.0,6788026,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+yorku.ca,86.0,262194,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+sebrae.com.br,86.0,434048,2,0,vivareal.com.br|zapimoveis.com.br,entidade de classe/associação
+fu-berlin.de,86.0,201967,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+kit.edu,86.0,105509,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+lawinsider.com,84.0,544465,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+idealista.com,84.0,5700564,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+znaki.fm,84.0,775535,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+lnk.bio,84.0,86268,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+polimi.it,83.0,112636,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+ig.com.br,83.0,2480761,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+iza.org,83.0,4984,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+apify.com,83.0,501305,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+infomoney.com.br,83.0,3267819,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+ufrj.br,82.0,532738,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+serpro.gov.br,82.0,2965742,2,0,vivareal.com.br|zapimoveis.com.br,governo
+ufmg.br,82.0,471960,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+deel.com,82.0,286868,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+analoghq.ai,81.0,727,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+unl.pt,81.0,60384,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+techtudo.com.br,81.0,3039688,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+tecimob.com.br,81.0,3992,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+clicrbs.com.br,80.0,6059258,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+poder360.com.br,80.0,3186707,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+unb.br,80.0,144872,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+em.com.br,80.0,611449,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+mziq.com,79.0,8895,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+fipe.org.br,79.0,2609552,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+flow.page,78.0,10916,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+uff.br,78.0,149693,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+goias.gov.br,78.0,314559,2,0,vivareal.com.br|zapimoveis.com.br,governo
+vakinha.com.br,78.0,68084,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+stays.net,77.0,102112,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+olx.com.br,76.0,12900099,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+workana.com,76.0,402089,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+globalpropertyguide.com,76.0,10084,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+fi.co,76.0,8105,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+universalsoftware.com.br,76.0,7739,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+podbay.fm,76.0,11795,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+ufu.br,75.0,82813,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+riotimesonline.com,75.0,43145,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+alura.com.br,75.0,390101,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+privyr.com,75.0,5825,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+consumidormoderno.com.br,74.0,5154,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+almg.gov.br,74.0,312140,2,0,vivareal.com.br|zapimoveis.com.br,governo
+ufpa.br,74.0,106333,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+bmfbovespa.com.br,74.0,33589,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+ufjf.br,73.0,107541,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+trf3.jus.br,73.0,321313,2,0,vivareal.com.br|zapimoveis.com.br,governo
+expat.com,72.0,27342,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+brasil247.com,72.0,1023670,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+aau.edu.et,72.0,36082,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+udesc.br,72.0,39354,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+mpsp.mp.br,71.0,61821,2,0,vivareal.com.br|zapimoveis.com.br,governo
+dejan.ai,71.0,401,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+linkme.bio,71.0,25874,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+clickpetroleoegas.com.br,71.0,42559,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+startupi.com.br,71.0,27502,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+pmf.sc.gov.br,71.0,28253,2,0,vivareal.com.br|zapimoveis.com.br,governo
+cvcrm.com.br,71.0,10965,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+ufcg.edu.br,71.0,32525,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+intercept.com.br,71.0,38170,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+ufs.br,71.0,98670,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+uepg.br,71.0,32540,2,0,vivareal.com.br|zapimoveis.com.br,universidade/educação
+grupoolx.com.br,70.0,196358,2,0,vivareal.com.br|zapimoveis.com.br,portal/software/entidade imobiliária
+proteste.org.br,70.0,50791,2,0,vivareal.com.br|zapimoveis.com.br,outro (verificar)
+revistaoeste.com,69.0,1061163,2,0,vivareal.com.br|zapimoveis.com.br,notícia/mídia
+newsblogsports.site,6.0,0,7,7,capivariimoveis.com.br|cesaresantannaimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|marcomuratori.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+backlinkstree.com,1.1,0,6,6,capivariimoveis.com.br|domaniimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+way2check.art,0.4,0,6,6,capivariimoveis.com.br|cesaresantannaimoveis.com.br|imoveisemcamposdojordao.net|leardi.com.br|montanhesimoveis.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+dexxoo.com,0.0,64,5,5,capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|imoveisemcamposdojordao.net|marcomuratori.com.br,spam/diretório automático ou perfil (baixo valor)
+bisprofit.com,1.3,0,5,5,altitudeimoveis.com.br|capivariimoveis.com.br|cesaresantannaimoveis.com.br|domaniimoveis.com.br|leardi.com.br,spam/diretório automático ou perfil (baixo valor)
+r2.dev,90.0,31000,6,4,domaniimoveis.com.br|marciosantosimoveis.com.br|marcomuratori.com.br|muratoriimoveis.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+tamz.ai,9.0,0,4,4,altitudeimoveis.com.br|leardi.com.br|marciosantosimoveis.com.br|marcomuratori.com.br,spam/diretório automático ou perfil (baixo valor)
+linktr.ee,94.0,7709638,5,3,altitudeimoveis.com.br|leardi.com.br|muratoriimoveis.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+masihnyata.com,0.0,0,3,3,altitudeimoveis.com.br|marcomuratori.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+rocketreach.co,76.0,4207436,2,2,leardi.com.br|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+klazify.com,44.0,78,2,2,altitudeimoveis.com.br|capivariimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+globalrankdirectory.com,15.0,1,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+businessdirectorybd.com,13.0,126,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+searchstackdirectory.com,19.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+linkboostdirectory.com,15.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+seotrafficdirectory.com,15.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+worldseodirectory.com,14.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+usaseodirectory.com,13.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+authorityprodirectory.com,13.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+traffichubdirectory.com,12.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+smartdirectoryhub.com,11.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+highauthoritydirectory.com,11.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+seoprodirectory.com,8.0,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+gamerkun.com,8.0,0,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+eastphoenixau.com,7.0,0,2,2,imoveisemcamposdojordao.net|leardi.com.br,spam/diretório automático ou perfil (baixo valor)
+sblmerchant.com,6.0,0,2,2,imoveisemcamposdojordao.net|leardi.com.br,spam/diretório automático ou perfil (baixo valor)
+businesslistingportal.com,4.8,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+revan-me.com,3.7,0,2,2,imoveisemcamposdojordao.net|leardi.com.br,spam/diretório automático ou perfil (baixo valor)
+eliterankdirectory.com,1.8,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+enterprisedirectoryhub.com,0.7,0,2,2,imoveisemcamposdojordao.net|muratoriimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+casa-alegre.com,0.0,0,2,2,capivariimoveis.com.br|montanhesimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+crunchbase.com,91.0,2447724,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+grokipedia.com,79.0,71367,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
+accio.com,76.0,268724,3,1,leardi.com.br|vivareal.com.br|zapimoveis.com.br,spam/diretório automático ou perfil (baixo valor)
