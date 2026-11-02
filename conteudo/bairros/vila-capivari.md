@@ -138,6 +138,7 @@ Dá, mas confira antes se a convenção do condomínio permite locação de curt
 - Três núcleos (Abernéssia, Jaguaribe, Capivari): https://www.al.sp.gov.br/spl/2015/05/Propositura/1255822_50229523_Propositura.doc
 - Capivari como bairro mais famoso para se hospedar, restaurantes, lojas e arquitetura europeia: https://blog.blablacar.com.br/passeios/vila-capivari, https://www.queroviajarmais.com/onde-ficar-em-campos-do-jordao/ e https://guia.melhoresdestinos.com.br/capivari-119-2468-l.html
 - Teleférico no Parque Capivari, percurso de cerca de 560 m: https://www.dicasdeviagem.com/teleferico-campos-do-jordao/ e https://saopaulosecreto.com/teleferico-morro-do-elefante-campos-do-jordao-interior-sao-paulo/
+- Morro do Elefante a quase 1.800 m e acesso de carro: https://www.dicasdeviagem.com/teleferico-campos-do-jordao/ e https://www.dicasdeviagem.com/o-que-fazer-em-campos-do-jordao/
 - Estação Emílio Ribas (Av. Emílio Ribas, Capivari) e bonde até a Abernéssia: https://diariodoturismo.com.br/estrada-de-ferro-campos-do-jordao
 - Avenida Doutor Januário Miraglia entre Abernéssia e Capivari, passando pela Vila Everest: `GUIA-BAIRROS.md`, seção Vila Everest.
 - Pousada Recanto Feliz a 900 m da Vila Capivari: `GUIA-BAIRROS.md`, seção Recanto Feliz.
