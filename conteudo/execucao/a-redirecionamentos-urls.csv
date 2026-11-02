@@ -1,0 +1,53 @@
+tipo,slug_antigo,slug_certo,nome_certo_no_site (H1 do destino),url_antiga,codigo,url_destino,status_destino (crawl 26/10),links_internos_para_url_antiga
+bairro/condomínio renomeado,altos-do-capivari,alto-do-capivari,Alto do Capivari,/imoveis/a-venda/casa/campos-do-jordao/altos-do-capivari,301,/imoveis/a-venda/casa/campos-do-jordao/alto-do-capivari,200 sitemap,404
+bairro/condomínio renomeado,pedra-do-fogo,condominio-morro-pedra-do-fogo,Condomínio Morro Pedra do Fogo,/imoveis/a-venda/casa/campos-do-jordao/pedra-do-fogo,301,/imoveis/a-venda/casa/campos-do-jordao/condominio-morro-pedra-do-fogo,200 sitemap,403
+bairro/condomínio renomeado,vila-abernessia,abernessia,Abernéssia,/imoveis/a-venda/casa/campos-do-jordao/vila-abernessia,301,/imoveis/a-venda/casa/campos-do-jordao/abernessia,200 no-sitemap,404
+bairro/condomínio renomeado,pedra-do-fogo,condominio-morro-pedra-do-fogo,Condomínio Morro Pedra do Fogo,/imoveis/campos-do-jordao/pedra-do-fogo,301,/imoveis/campos-do-jordao/condominio-morro-pedra-do-fogo,200 no-sitemap,236
+bairro/condomínio renomeado,vila-abernessia,abernessia,Abernéssia,/imoveis/campos-do-jordao/vila-abernessia,301,/imoveis/campos-do-jordao/abernessia,200 no-sitemap,164
+bairro/condomínio renomeado,altos-do-capivari,alto-do-capivari,Alto do Capivari,/imoveis/campos-do-jordao/altos-do-capivari,301,/imoveis/campos-do-jordao/alto-do-capivari,200 no-sitemap,224
+bairro/condomínio renomeado,pedra-do-fogo,condominio-morro-pedra-do-fogo,Condomínio Morro Pedra do Fogo,/imoveis/a-venda/terreno/campos-do-jordao/pedra-do-fogo,301,/imoveis/a-venda/terreno/campos-do-jordao/condominio-morro-pedra-do-fogo,200 no-sitemap,211
+bairro/condomínio renomeado,jardim-cataguazes,jardim-cataguases,Jardim Cataguases,/imoveis/campos-do-jordao/jardim-cataguazes,301,/imoveis/campos-do-jordao/jardim-cataguases,200 noindex no-sitemap,7
+bairro/condomínio renomeado,fracalanza,vila-fracalanza,Vila Fracalanza,/imoveis/campos-do-jordao/fracalanza,301,/imoveis/campos-do-jordao/vila-fracalanza,200 no-sitemap,7
+bairro/condomínio renomeado,sao-francisco,vila-sao-francisco,Vila São Francisco,/imoveis/campos-do-jordao/sao-francisco,301,/imoveis/campos-do-jordao/vila-sao-francisco,200 no-sitemap,8
+bairro/condomínio renomeado,jardim-bevedere,jardim-belvedere,Jardim Belvedere,/imoveis/campos-do-jordao/jardim-bevedere,301,/imoveis/campos-do-jordao/jardim-belvedere,200 no-sitemap,7
+bairro/condomínio renomeado,parque-ferradura,parque-da-ferradura,Parque da Ferradura,/imoveis/campos-do-jordao/parque-ferradura,301,/imoveis/campos-do-jordao/parque-da-ferradura,200 noindex no-sitemap,8
+bairro/condomínio renomeado,loteamento-jardim-elizabeth,jardim-elizabeth,Jardim Elizabeth,/imoveis/a-venda/terreno/campos-do-jordao/loteamento-jardim-elizabeth,301,/imoveis/a-venda/terreno/campos-do-jordao/jardim-elizabeth,200 no-sitemap,1
+bairro/condomínio renomeado,alataia,atalaia,Atalaia,/imoveis/campos-do-jordao/alataia,301,/imoveis/campos-do-jordao/atalaia,200 no-sitemap,7
+bairro/condomínio renomeado,vila-austriaca,aldeia-austriaca,Aldeia Austríaca,/imoveis/campos-do-jordao/vila-austriaca,301,/imoveis/campos-do-jordao/aldeia-austriaca,200 no-sitemap,1
+bairro/condomínio renomeado,loteamento-jardim-elizabeth,jardim-elizabeth,Jardim Elizabeth,/imoveis/campos-do-jordao/loteamento-jardim-elizabeth,301,/imoveis/campos-do-jordao/jardim-elizabeth,200 no-sitemap,7
+bairro/condomínio renomeado,j-nova-suica,vila-nova-suica,Vila Nova Suíça,/imoveis/campos-do-jordao/j-nova-suica,301,/imoveis/campos-do-jordao/vila-nova-suica,200 no-sitemap,8
+bairro/condomínio renomeado,branca-nuvens,brancas-nuvens,Brancas Nuvens,/imoveis/campos-do-jordao/branca-nuvens,301,/imoveis/campos-do-jordao/brancas-nuvens,200 no-sitemap,7
+bairro/condomínio renomeado,parque-ferradura,parque-da-ferradura,Parque da Ferradura,/imoveis/a-venda/terreno/campos-do-jordao/parque-ferradura,301,/imoveis/a-venda/terreno/campos-do-jordao/parque-da-ferradura,200 no-sitemap,1
+bairro/condomínio renomeado,chantal-i,vila-chantal,Vila Chantal,/imoveis/campos-do-jordao/chantal-i,301,/imoveis/campos-do-jordao/vila-chantal,200 no-sitemap,8
+bairro/condomínio renomeado,p-principes,parque-dos-principes,Parque dos Príncipes,/imoveis/campos-do-jordao/p-principes,301,/imoveis/campos-do-jordao/parque-dos-principes,200 no-sitemap,8
+bairro/condomínio renomeado,recanto-araucaria,recanto-das-araucarias,Recanto das Araucárias,/imoveis/campos-do-jordao/recanto-araucaria,301,/imoveis/campos-do-jordao/recanto-das-araucarias,200 no-sitemap,7
+bairro/condomínio renomeado,vila-matilde,vila-mathilde,Vila Mathilde,/imoveis/para-alugar/casa/campos-do-jordao/vila-matilde,301,/imoveis/para-alugar/casa/campos-do-jordao/vila-mathilde,200 no-sitemap,1
+"outro (http/sem www, ficha ou link malformado)",,,,http://imoveisemcamposdojordao.com/,301,/,200 no-sitemap,0
+bairro/condomínio renomeado,alto-boa-vista,alto-da-boa-vista,Alto da Boa Vista,/imoveis/a-venda/terreno/campos-do-jordao/alto-boa-vista,301,/imoveis/a-venda/terreno/campos-do-jordao/alto-da-boa-vista,200 sitemap,1
+bairro/condomínio renomeado,j-andira,jardim-andira,Jardim Andira,/imoveis/campos-do-jordao/j-andira,301,/imoveis/campos-do-jordao/jardim-andira,200 no-sitemap,7
+bairro/condomínio renomeado,vila-abernessia,abernessia,Abernéssia,/imoveis/para-alugar/casa/campos-do-jordao/vila-abernessia,301,/imoveis/para-alugar/casa/campos-do-jordao/abernessia,200 no-sitemap,1
+bairro/condomínio renomeado,alpes-campos-do-jordao,alpes-de-campos-do-jordao,Alpes de Campos do Jordão,/imoveis/a-venda/terreno/campos-do-jordao/alpes-campos-do-jordao,301,/imoveis/a-venda/terreno/campos-do-jordao/alpes-de-campos-do-jordao,200 sitemap,1
+"outro (http/sem www, ficha ou link malformado)",,,,http://imoveisemcamposdojordao.com/robots.txt,301,/robots.txt,200 no-sitemap,0
+bairro/condomínio renomeado,jardim-atalaia,atalaia,Atalaia,/imoveis/campos-do-jordao/jardim-atalaia,301,/imoveis/campos-do-jordao/atalaia,200 no-sitemap,8
+bairro/condomínio renomeado,imbiri,imbiry,Imbiry,/imoveis/campos-do-jordao/imbiri,301,/imoveis/campos-do-jordao/imbiry,200 noindex no-sitemap,7
+bairro/condomínio renomeado,lot-atalaia,atalaia,Atalaia,/imoveis/a-venda/terreno/campos-do-jordao/lot-atalaia,301,/imoveis/a-venda/terreno/campos-do-jordao/atalaia,200 sitemap,1
+bairro/condomínio renomeado,alpes-campos-do-jordao,alpes-de-campos-do-jordao,Alpes de Campos do Jordão,/imoveis/campos-do-jordao/alpes-campos-do-jordao,301,/imoveis/campos-do-jordao/alpes-de-campos-do-jordao,200 no-sitemap,7
+bairro/condomínio renomeado,alto-boa-vista,alto-da-boa-vista,Alto da Boa Vista,/imoveis/campos-do-jordao/alto-boa-vista,301,/imoveis/campos-do-jordao/alto-da-boa-vista,200 no-sitemap,7
+"outro (http/sem www, ficha ou link malformado)",,,,http://www.imoveisemcamposdojordao.com/,301,/,200 no-sitemap,0
+bairro/condomínio renomeado,vila-jaguaribe,jaguaribe,Jaguaribe,/imoveis/campos-do-jordao/vila-jaguaribe,301,/imoveis/campos-do-jordao/jaguaribe,200 no-sitemap,8
+bairro/condomínio renomeado,j-nova-suica,vila-nova-suica,Vila Nova Suíça,/imoveis/a-venda/terreno/campos-do-jordao/j-nova-suica,301,/imoveis/a-venda/terreno/campos-do-jordao/vila-nova-suica,200 no-sitemap,1
+"outro (http/sem www, ficha ou link malformado)",,,,https://imoveisemcamposdojordao.com/,301,/,200 no-sitemap,0
+bairro/condomínio renomeado,parque-agua-santa,agua-santa,Água Santa,/imoveis/campos-do-jordao/parque-agua-santa,302,/imoveis/campos-do-jordao/agua-santa,200 no-sitemap,8
+bairro/condomínio renomeado,morro-da-pedra-do-fogo,condominio-morro-pedra-do-fogo,Condomínio Morro Pedra do Fogo,/imoveis/campos-do-jordao/morro-da-pedra-do-fogo,301,/imoveis/campos-do-jordao/condominio-morro-pedra-do-fogo,200 no-sitemap,8
+bairro/condomínio renomeado,jardim-elisabeth,jardim-elizabeth,Jardim Elizabeth,/imoveis/campos-do-jordao/jardim-elisabeth,301,/imoveis/campos-do-jordao/jardim-elizabeth,200 no-sitemap,8
+"outro (http/sem www, ficha ou link malformado)",,,,/imovel/terreno-campos-do-jordao/TE0175-JRLM,301,/imovel/terreno-campos-do-jordao-1-225-m/TE0175-JRLM,200 sitemap,1
+"outro (http/sem www, ficha ou link malformado)",,,,/https://camposdojordao.sp.gov.br/requerimentos/,301,(vazio),,1
+bairro/condomínio renomeado,lot-atalaia,atalaia,Atalaia,/imoveis/campos-do-jordao/lot-atalaia,301,/imoveis/campos-do-jordao/atalaia,200 no-sitemap,8
+bairro/condomínio renomeado,vila-matilde,vila-mathilde,Vila Mathilde,/imoveis/campos-do-jordao/vila-matilde,301,/imoveis/campos-do-jordao/vila-mathilde,200 no-sitemap,8
+bairro/condomínio renomeado,vila-suica,vila-nova-suica,Vila Nova Suíça,/imoveis/campos-do-jordao/vila-suica,301,/imoveis/campos-do-jordao/vila-nova-suica,200 no-sitemap,1
+bairro/condomínio renomeado,vila-iara,vila-yara,Vila Yara,/imoveis/campos-do-jordao/vila-iara,301,/imoveis/campos-do-jordao/vila-yara,200 no-sitemap,7
+bairro/condomínio renomeado,alataia,atalaia,Atalaia,/imoveis/a-venda/terreno/campos-do-jordao/alataia,301,/imoveis/a-venda/terreno/campos-do-jordao/atalaia,200 sitemap,1
+bairro/condomínio renomeado,chantal-i,vila-chantal,Vila Chantal,/imoveis/a-venda/terreno/campos-do-jordao/chantal-i,301,/imoveis/a-venda/terreno/campos-do-jordao/vila-chantal,200 no-sitemap,1
+bairro/condomínio renomeado,recanto-araucaria,recanto-das-araucarias,Recanto das Araucárias,/imoveis/a-venda/terreno/campos-do-jordao/recanto-araucaria,301,/imoveis/a-venda/terreno/campos-do-jordao/recanto-das-araucarias,200 sitemap,1
+bairro/condomínio renomeado,v-britania,vila-britania,Vila Britania,/imoveis/campos-do-jordao/v-britania,301,/imoveis/campos-do-jordao/vila-britania,200 no-sitemap,7
+bairro/condomínio renomeado,jardim-atalaia,atalaia,Atalaia,/imoveis/a-venda/terreno/campos-do-jordao/jardim-atalaia,301,/imoveis/a-venda/terreno/campos-do-jordao/atalaia,200 sitemap,1
