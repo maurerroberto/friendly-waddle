@@ -19,7 +19,7 @@ São Bento do Sapucaí é a cidade da Pedra do Baú, na Serra da Mantiqueira, e 
 <!-- INICIO-TEXTO -->
 ## Como é São Bento do Sapucaí
 
-São Bento do Sapucaí é um município da Serra da Mantiqueira, na divisa de São Paulo com Minas Gerais. Segundo o IBGE, a cidade tinha 11.674 moradores no Censo 2022. É uma cidade pequena, de vida no centro e nos bairros rurais, com forte ligação com a natureza.
+São Bento do Sapucaí é um município da Serra da Mantiqueira, na Região Metropolitana do Vale do Paraíba e Litoral Norte. Segundo o IBGE, a cidade tinha 11.674 moradores no Censo 2022. É uma cidade pequena, cercada pela natureza da serra.
 
 O cartão-postal é o **Complexo do Baú**, formado por três grandes rochas: a Pedra do Baú, o Bauzinho e a Ana Chata. Guias de viagem informam que as trilhas da Pedra do Baú e da Ana Chata pedem agendamento, e que o Bauzinho tem visita livre. Reportagens recentes também chamam a região de "Toscana brasileira", por causa da produção de vinhos e azeites. A Assembleia Legislativa de São Paulo lembra ainda que a cidade inspirou a canção "No Rancho Fundo".
 
@@ -151,6 +151,7 @@ Obs.: o `RealEstateAgent` vai sem endereço de propósito. Acrescentar `address`
 - Complexo do Baú (Pedra do Baú, Bauzinho, Ana Chata), agendamento das trilhas, 35 km de Campos do Jordão e portaria a 22 km de cada cidade: https://www.viagensecaminhos.com/pedra-do-bau/ e https://www.viagensecaminhos.com/sao-bento-do-sapucai-sp/
 - "Toscana brasileira" (vinhos e azeites): https://www.gazetasp.com.br/turismo/conheca-a-cidade-que-virou-a-toscana-brasileira-na-serra-da/1158223/ e https://www.revistaoeste.com/brasil/toscana-brasileira-fica-a-185-km-de-sao-paulo-conheca/
 - Canção "No Rancho Fundo": https://www.al.sp.gov.br/noticia/?id=302581
+- Região Metropolitana do Vale do Paraíba (observatório da Univap) e população de 2010: https://www1.univap.br/observatoriormvale/SaoBentodoSapucai.pdf
 - SP-42 atravessa o município: https://saobentodosapucai.sp.gov.br/wp-content/uploads/2024/04/Plano-de-Trab.-TF-05-20-10oAdtv-jan24adez24-Oficial-173.33333-Sta-Casa.pdf
 - Pedra do Baú: https://www.Wikipedia.org/wiki/Pedra_do_Ba%C3%BA
 

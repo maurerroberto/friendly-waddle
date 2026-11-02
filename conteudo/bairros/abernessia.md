@@ -48,6 +48,10 @@ Para quem quer praticidade e menos manutenção. Confira a vaga, o valor do cond
 ### Imóveis comerciais
 Por ser o centro comercial, o bairro interessa também a quem procura ponto para loja ou escritório. Antes de fechar negócio, confirme na Prefeitura se a zona do imóvel permite a atividade que você quer exercer.
 
+## Antes de fechar negócio
+
+Peça a matrícula atualizada do imóvel no Cartório de Registro de Imóveis, as certidões do vendedor e o carnê do IPTU. Em casa construída, confira se a área construída está averbada na matrícula. Nós acompanhamos essa conferência até a escritura.
+
 ## Para quem a Abernéssia é indicada
 
 - Quem mora em Campos do Jordão o ano todo e quer fazer tudo perto de casa.

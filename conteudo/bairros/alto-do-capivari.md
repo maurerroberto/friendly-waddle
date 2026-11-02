@@ -44,7 +44,7 @@ Casas grandes, para morar ou para temporadas com a família. Observe a face do s
 Para quem quer portaria e áreas comuns. Antes de comprar, peça a convenção e o regimento do condomínio e o valor da taxa mensal. Confira também as regras para obra, animais e aluguel por temporada.
 
 ### Apartamentos
-O ZAP lista apartamentos à venda no Alto do Capivari, inclusive de 1 quarto. São uma opção para quem quer praticidade, perto do centro turístico, com menos manutenção.
+O ZAP lista apartamentos à venda no Alto do Capivari, inclusive de 1 quarto. São uma opção para quem quer praticidade, perto do centro turístico, com menos manutenção. Confira a vaga de garagem, o valor do condomínio e o aquecimento do apartamento.
 
 ### Terrenos
 Para quem quer construir, peça à Prefeitura a certidão de uso do solo do lote. Ela informa a zona e o que a Lei 4.144/2022 permite construir. Em residência unifamiliar, a lei aceita até 3 edificações no lote (casa principal, casa de hóspedes e casa de caseiro), dentro dos limites da zona. Todo o município fica em Área de Proteção Ambiental.

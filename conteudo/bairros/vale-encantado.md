@@ -19,7 +19,7 @@ O Vale Encantado é um bairro residencial de Campos do Jordão onde os portais a
 <!-- INICIO-TEXTO -->
 ## Como é o Vale Encantado
 
-Os anúncios do Vale Encantado mostram um bairro de casas, com destaque para as casas em condomínio. Imobiliárias e portais anunciam, por exemplo, casas em condomínio de 3 quartos no bairro. O Vale Encantado tem página própria nos grandes portais, o que mostra que há procura constante por imóveis ali.
+Os anúncios do Vale Encantado mostram um bairro de casas, com destaque para as casas em condomínio. Imobiliárias e portais anunciam, por exemplo, casas em condomínio de 3 quartos no bairro. O Vale Encantado tem página própria nos grandes portais, o que mostra que há procura por imóveis ali.
 
 ## Localização e acesso
 
@@ -39,7 +39,7 @@ Não encontramos fonte com a distância medida até a Praça do Capivari. Na vis
 São o tipo mais anunciado. Antes de comprar, peça a convenção e o regimento do condomínio, o valor da taxa mensal e as últimas atas de assembleia. Confira as regras para obra, animais e aluguel por temporada, e veja como funcionam a portaria e a manutenção das ruas internas.
 
 ### Casas
-Casas fora de condomínio também aparecem. Observe a face do sol, o aquecimento, a umidade e a garagem.
+Casas fora de condomínio também aparecem. Observe a face do sol, o aquecimento, a umidade e a garagem. Em rua aberta, veja também a iluminação e o acesso à noite.
 
 ### Terrenos
 Para quem quer construir, peça à Prefeitura a certidão de uso do solo do lote. Ela informa a zona e o que a Lei 4.144/2022 permite construir. Em residência unifamiliar, a lei aceita até 3 edificações no lote (casa principal, casa de hóspedes e casa de caseiro), dentro dos limites da zona. Em condomínio, valem também as regras internas. Todo o município fica em Área de Proteção Ambiental.

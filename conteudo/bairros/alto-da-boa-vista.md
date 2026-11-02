@@ -48,6 +48,7 @@ Peça a matrícula atualizada do imóvel no Cartório de Registro de Imóveis, a
 - Quem procura casa em bairro tradicional e tranquilo.
 - Famílias que querem espaço e não precisam fazer tudo a pé.
 - Quem quer comprar terreno para construir a casa de descanso.
+- Quem gosta de passeios culturais, já que o Palácio Boa Vista fica no próprio bairro.
 
 Para comparar, veja também a Vila Inglesa e o Alto do Capivari, outros bairros residenciais procurados por quem quer tranquilidade.
 <!-- FIM-TEXTO -->

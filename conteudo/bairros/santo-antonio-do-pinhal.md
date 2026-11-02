@@ -19,7 +19,7 @@ Santo Antônio do Pinhal fica na Serra da Mantiqueira, vizinha de Campos do Jord
 <!-- INICIO-TEXTO -->
 ## Como é Santo Antônio do Pinhal
 
-Santo Antônio do Pinhal é um município da Serra da Mantiqueira, no Vale do Paraíba paulista. Guias de turismo costumam apresentar a cidade como uma alternativa mais tranquila a Campos do Jordão, com pousadas, restaurantes de montanha e passeios ao ar livre.
+Santo Antônio do Pinhal é um município da Serra da Mantiqueira, na Região Metropolitana do Vale do Paraíba e Litoral Norte. Guias de turismo costumam apresentar a cidade como uma alternativa mais tranquila a Campos do Jordão, com pousadas, restaurantes de montanha e passeios ao ar livre.
 
 Os passeios mais citados são três:
 
@@ -151,7 +151,7 @@ Obs.: o `RealEstateAgent` vai sem endereço de propósito. Acrescentar `address`
 
 - Volumes de busca: `ahrefs-export/palavras/PESQUISA-PALAVRAS.md` (seções 3, 4 e 9) e plano, ação B7.
 - Distância de 14 km e 168 km de São Paulo: https://al.sp.gov.br/noticia?id=287784
-- SP-46 (Rodovia Oswaldo Barbosa Guisardi) como acesso: https://www1.univap.br/observatoriormvale/SantoAntoniodoPinhal.pdf
+- SP-46 (Rodovia Oswaldo Barbosa Guisardi) como acesso e Região Metropolitana do Vale do Paraíba (observatório da Univap): https://www1.univap.br/observatoriormvale/SantoAntoniodoPinhal.pdf
 - Alternativa tranquila a Campos do Jordão: https://www.guiadasemana.com.br/viagens-nacionais/noticia/santo-antonio-do-pinhal-e-otima-alternativa-a-badalada-campos-do-jordao
 - Pico Agudo, Jardim dos Pinhais e Estação Eugênio Lefèvre: https://saopaulosecreto.com/o-que-fazer-santo-antonio-do-pinhal-lugares-viajar-inverno-interior-sp/ e https://www.fuiserviajante.com/sao-paulo/o-que-fazer-em-santo-antonio-do-pinhal/index.html
 - Lista de páginas existentes: plano, ação B7.
