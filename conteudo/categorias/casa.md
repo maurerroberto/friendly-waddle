@@ -221,3 +221,68 @@ Observação: desde 2023 o Google só mostra o resultado com perguntas para site
 - Bairros (Abernéssia, Capivari, Vila Everest, Recanto Feliz, Atalaia, Floresta Negra, Umuarama, Nova Capivari, Parque Imbiry): `GUIA-BAIRROS.md`, seções de cada bairro e de Vila Britânia/Vila Paulista (Abernéssia) — só trechos fora de "Pontos não confirmados".
 - Empresa (desde 2011, CRECI/SP 23.458-J, horário, endereço, telefone, Encomende seu imóvel, Financiamento e bancos, links da Prefeitura no menu Serviços): rodapé e menu do próprio site (`ahrefs-export/extras/page-content/home.md` e `imoveis-a-venda-casa.md`).
 - Existência das páginas linkadas: crawl do Site Audit de 26/10/2026 (`ahrefs-export/extras/site-audit-page-explorer-10408012.csv`).
+
+## 10. Versão em HTML (para colar no editor de código do Kenlo Sites)
+
+Use esta versão se o campo de texto do Kenlo Sites aceitar HTML (modo "código-fonte"). É o mesmo texto das seções 4 e 5.
+
+### 10a. Texto introdutório (HTML)
+
+```html
+<p>Veja abaixo as casas à venda em Campos do Jordão anunciadas pela Imóveis em Campos do Jordão, imobiliária local desde 2011 (CRECI/SP 23.458-J). Há casas de vários tamanhos, perto do Capivari, perto do comércio da Abernéssia, em condomínios e em áreas de mata. Use os filtros para escolher bairro, preço, quartos e vagas. Cada anúncio traz fotos, metragem e preço. Gostou de uma casa em Campos do Jordão? Chame no WhatsApp (12) 3662-6039 e agende a visita.</p>
+```
+
+### 10b. Texto completo (HTML)
+
+```html
+<h2>Por que comprar casa em Campos do Jordão</h2>
+<p>Campos do Jordão fica na Serra da Mantiqueira, entre 170 e 180 km de São Paulo pela estrada, conforme o trajeto. O acesso principal é a Rodovia Floriano Rodrigues Pinheiro (SP-123), que liga Taubaté à cidade. A sede do município está a cerca de 1.628 m de altitude, apontada como a mais alta entre as sedes municipais do Brasil. O inverno frio pesa na escolha da casa.</p>
+<p>A cidade tem 46.974 moradores (IBGE, Censo 2022) e recebe visitantes ao longo do ano, com alta temporada no inverno. Em 2026, o Festival Internacional de Inverno chegou à 56ª edição, de 4 de julho a 2 de agosto. Por isso, há quem procure casa em Campos do Jordão para morar e há quem busque uma segunda residência.</p>
+<p>Outro ponto é o terreno. Em residência unifamiliar, a lei de zoneamento (Lei 4.144/2022) permite até 3 construções no lote, onde a zona permite: a casa principal, uma casa de hóspedes e uma casa de caseiro. Antes de planejar uma ampliação, confirme a zona do imóvel na Prefeitura.</p>
+<h2>Bairros com casas à venda em Campos do Jordão</h2>
+<p>Cada região tem um perfil. Alguns exemplos:</p>
+<ul>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/abernessia">Abernéssia</a>: centro comercial e administrativo da cidade, com lojas e supermercados.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/vila-capivari">Vila Capivari</a>: o Capivari é o centro turístico, com a arquitetura de inspiração europeia que marca a cidade.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/vila-everest">Vila Everest</a>: entre a Abernéssia e o Capivari, com casas, prédios e hotéis.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/recanto-feliz">Recanto Feliz</a>: a cerca de 800 a 900 m do Capivari, com posto de saúde no próprio bairro.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/atalaia">Atalaia</a>: loteamento residencial na região do Jaguaribe, com casas em condomínio e terrenos.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/floresta-negra">Floresta Negra</a>: bairro residencial perto da Vila Albertina e do Parque da Cerejeira.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/umuarama">Umuarama</a>: área de mata nativa com portaria, onde nasce o Ribeirão Capivari.</li>
+  <li><a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/nova-capivari">Nova Capivari</a> e <a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/parque-imbiry">Parque Imbiry</a>: casas maiores e chácaras em meio à mata.</li>
+</ul>
+<p>Também há casas no <a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/alto-do-capivari">Alto do Capivari</a>, em <a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/descansopolis">Descansópolis</a>, no <a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/alto-da-boa-vista">Alto da Boa Vista</a> e no <a href="https://www.imoveisemcamposdojordao.com/imoveis/campos-do-jordao/jardim-veu-da-noiva">Jardim Véu da Noiva</a>. Clique no bairro para ver os imóveis dele.</p>
+<h2>Tipos de casa</h2>
+<p>No site há casas térreas, sobrados, casas em condomínio e chácaras com casa. Para casas maiores, veja os <a href="https://www.imoveisemcamposdojordao.com/imoveis-de-alto-padrao-em-campos-do-jordao">imóveis de alto padrão em Campos do Jordão</a>. Se a ideia é construir do seu jeito, veja os <a href="https://www.imoveisemcamposdojordao.com/imoveis/a-venda/terreno">terrenos à venda</a>.</p>
+<h3>O que observar na visita</h3>
+<ul>
+  <li><strong>Sol:</strong> veja quais cômodos recebem sol; isso pesa no conforto e na umidade.</li>
+  <li><strong>Aquecimento:</strong> lareira, aquecedores e janelas bem vedadas.</li>
+  <li><strong>Acesso:</strong> rua asfaltada ou de terra, subida forte e garagem.</li>
+  <li><strong>Documentos:</strong> matrícula atualizada, IPTU em dia e construção regularizada.</li>
+</ul>
+<h2>Como funciona a compra com a imobiliária</h2>
+<ol>
+  <li><strong>Escolha e visita:</strong> separe as casas no site e agende a visita. Atendemos de segunda a sábado, das 9h às 18h, e aos domingos com agendamento pelo WhatsApp.</li>
+  <li><strong>Proposta:</strong> envie pelo <a href="https://www.imoveisemcamposdojordao.com/cadastro-de-proposta">cadastro de proposta</a> ou direto com o corretor.</li>
+  <li><strong>Documentos:</strong> antes de assinar, confira a matrícula atualizada, as certidões do vendedor e a certidão negativa de IPTU, emitida pela Prefeitura.</li>
+  <li><strong>Pagamento:</strong> à vista ou com crédito bancário. Faça uma simulação em <a href="https://www.imoveisemcamposdojordao.com/financiamento-e-bancos">financiamento e bancos</a>.</li>
+  <li><strong>Escritura e registro:</strong> a guia do ITBI sai no sistema da Prefeitura. A casa passa a ser sua com o registro no Cartório de Registro de Imóveis (Código Civil, art. 1.245).</li>
+</ol>
+<h2>Perguntas frequentes sobre casas à venda em Campos do Jordão</h2>
+<h3>Qual o valor de uma casa em Campos do Jordão?</h3>
+<p>Depende do bairro, da metragem, do terreno e do estado da casa. O preço de cada casa está no anúncio. Use o filtro de preço da busca para ver só as opções do seu orçamento.</p>
+<h3>Qual o melhor bairro para morar em Campos do Jordão?</h3>
+<p>Depende da sua rotina. Quem quer comércio e serviços perto pode olhar a Abernéssia e os bairros vizinhos. Quem quer ficar perto do Capivari pode olhar a Vila Everest e o Recanto Feliz. Quem prefere mata e silêncio pode olhar o Umuarama e a Nova Capivari.</p>
+<h3>Quanto custa morar em Campos do Jordão?</h3>
+<p>Além da casa, entram na conta o IPTU, luz, gás, o condomínio (se houver) e o aquecimento no inverno. Peça os valores de IPTU e de condomínio do imóvel antes de fazer a proposta.</p>
+<h3>Dá para comprar uma casa com 100 mil reais?</h3>
+<p>As ofertas mudam todos os dias. Use o filtro de preço para ver as casas mais baratas. Se não houver opção na sua faixa, use o <a href="https://www.imoveisemcamposdojordao.com/encomende-seu-imovel">Encomende seu imóvel</a>: você descreve o que procura e nós avisamos quando encontrarmos.</p>
+<h3>Posso comprar casa direto com o proprietário?</h3>
+<p>Pode. Com uma imobiliária registrada no CRECI, você tem apoio na visita, na negociação e na conferência dos documentos. A Imóveis em Campos do Jordão atua na cidade desde 2011.</p>
+<h3>Como consultar o IPTU de uma casa em Campos do Jordão?</h3>
+<p>A Prefeitura emite pela internet a guia do IPTU, a consulta de débitos e a certidão negativa. Os links estão no menu Serviços do nosso site.</p>
+<h3>Qual é o estilo das casas de Campos do Jordão?</h3>
+<p>A cidade é conhecida pela arquitetura de inspiração europeia, com construções em enxaimel (madeira aparente na fachada), sobretudo na Vila Capivari. Nos bairros residenciais, o estilo varia de casa para casa. As fotos de cada anúncio mostram os detalhes.</p>
+<p>Fale com a gente: Av. Frei Orestes Girardi, 1423, Loja A, Abernéssia. WhatsApp (12) 3662-6039.</p>
+```
