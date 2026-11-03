@@ -28,7 +28,7 @@ Situação (dos arquivos do projeto):
 
 Regra do Google que pesa aqui: o nome e o endereço dos documentos enviados têm que bater com o perfil contestado.
 
-> CEP escolhido: **_____-___** (data: __/__/____). Usar este mesmo CEP no `CITACOES-KIT.md` (todos os diretórios) e no `PEDIDO-KENLO.md` (item 12).
+> CEP escolhido: **12467-012** — opção (b) (decisão do Roberto em 03/11/2026). Anexar comprovante de endereço com esse CEP. Usar este mesmo CEP no `CITACOES-KIT.md` (todos os diretórios) e no `PEDIDO-KENLO.md` (item 12).
 
 ## Passo 2 — Conferir os dados do perfil (se a tela deixar editar)
 

@@ -67,7 +67,7 @@ Ainda não têm seção no guia: Quebradas, Vila Nadir, Parque Imbiry, Nova Capi
 
 ## Perfil da Empresa no Google (suspenso)
 
-- **CEP**: escolher entre (a) voltar para 12460-000 com "Loja A", como no cartão do CNPJ (recomendado), ou (b) manter 12467-012 e anexar um comprovante de endereço.
+- **CEP: decidido pelo Roberto em 03/11/2026 → 12467-012** (opção b). Endereço oficial: Av. Frei Orestes Girardi, 1423, Loja A, Vila Abernéssia, Campos do Jordão - SP, 12467-012. Na contestação, anexar comprovante de endereço com esse CEP, porque o cartão do CNPJ mostra 12460-000. Usar o mesmo CEP em todos os diretórios e no pedido à Kenlo.
 - **Ferramenta de contestação**: está travada com o aviso de "conta restrita". O caminho é o Suporte do Gerenciador, por chat ou e-mail, com a mensagem já redigida, o cartão do CNPJ e a foto da fachada. Falta o ok do Roberto para enviar.
 
 ## Lembrete

@@ -37,7 +37,7 @@ Regras deste kit:
 | Responsável | Roberto Maurer (sócio) |
 
 Endereço em uma linha (para formulários com campo único, depois de escolher o CEP):
-`Av. Frei Orestes Girardi, 1423, Loja A, Vila Abernéssia, Campos do Jordão - SP, CEP _____-___`
+`Av. Frei Orestes Girardi, 1423, Loja A, Vila Abernéssia, Campos do Jordão - SP, CEP 12467-012`
 
 Atenção às grafias:
 - Sempre "Imóveis em Campos do Jordão", com acento e com "em". Não usar "Imoveis Campos do Jordao", "Imóveis Campos do Jordão" nem "Maurer Imóveis" (o perfil duplicado com esse nome foi removido do Google).
@@ -52,7 +52,7 @@ Atenção às grafias:
 
 > **AVISO:** use em TODOS os diretórios o mesmo CEP que o Roberto escolher para o Perfil da Empresa no Google (ver `PERFIL-GOOGLE.md`). Não misture os dois. Se algum cadastro antigo (por exemplo, guiacamposjordao.com.br, telelistas) estiver com o outro CEP, corrija para o escolhido.
 >
-> CEP escolhido pelo Roberto: **_____-___** (data: __/__/____)
+> CEP escolhido pelo Roberto: **12467-012** (data: 03/11/2026). Usar este CEP em todos os diretórios.
 
 ### 1.3 Horário de funcionamento (o Roberto preenche)
 

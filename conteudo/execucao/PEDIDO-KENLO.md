@@ -6,7 +6,7 @@ Preparado em 02/11/2026 a partir do Anexo A do `PLANO-DE-ACAO-SEO-29-10.md`, rev
 
 Antes de enviar, o Roberto confere:
 1. **O e-mail do cache antigo (gocache) já foi enviado?** (handoff 05/10, central exec #249). Se não foi, deixe o item 13 no texto. Se já foi, apague o item 13.
-2. **CEP escolhido** para o Perfil do Google (ver `PERFIL-GOOGLE.md`): preencha no item 12.
+2. **CEP escolhido** para o Perfil do Google: **12467-012** (decisão do Roberto em 03/11/2026), já preenchido no item 12.
 3. **Cidades vizinhas:** se a imobiliária atende Santo Antônio do Pinhal e São Bento do Sapucaí, mantenha a frase entre colchetes do item 2; se não, apague.
 4. Os anexos da lista no fim estão no computador (pasta do projeto).
 
@@ -70,7 +70,7 @@ A página `/sitemap/paginas` gera 8 links do tipo `https://www.imoveisemcamposdo
 17 páginas levaram mais de 3 segundos, quase tudo de tempo de resposta do servidor (TTFB). Exemplos: `/imoveis/a-venda/apartamento/campos-do-jordao/residencial-reali-fiori` (7,98 s; TTFB 7,81 s), `/imovel/apartamento-campos-do-jordao-3-quartos/AP0234-JRLM` (7,71 s), `/imoveis/campos-do-jordao/vila-real` (6,65 s). A auditoria também apontou 26 avisos de resposta lenta para robôs de IA. Anexo: `lentas-acima-3s.csv`.
 
 **12. Dados estruturados**
-A auditoria apontou 1.600 avisos de validação schema.org e 760 de validação de rich results do Google. Pedimos uma revisão do modelo. Pedimos também conferir se o endereço do schema da imobiliária (RealEstateAgent na home) está igual ao nosso cadastro: Av. Frei Orestes Girardi, 1423, Loja A, Vila Abernéssia, Campos do Jordão/SP, CEP **[_____-___]**, telefone (12) 3662-6039.
+A auditoria apontou 1.600 avisos de validação schema.org e 760 de validação de rich results do Google. Pedimos uma revisão do modelo. Pedimos também conferir se o endereço do schema da imobiliária (RealEstateAgent na home) está igual ao nosso cadastro: Av. Frei Orestes Girardi, 1423, Loja A, Vila Abernéssia, Campos do Jordão/SP, CEP **12467-012**, telefone (12) 3662-6039.
 
 **13. Cache antigo fora do Brasil** *(apagar este item se o e-mail sobre o cache já foi enviado)*
 Fora do Brasil, inclusive para o Googlebot, o site ainda mostra cópias antigas das páginas (cache), então as correções demoram a chegar ao Google. Pedimos verificar a configuração do cache/CDN.
